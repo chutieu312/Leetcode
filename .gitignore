@@ -1,4 +1,31 @@
+# Bytecode
 __pycache__/
 *.py[cod]
+*$py.class
+
+# Virtual envs
 .venv/
+venv/
 **/.venv/
+
+# Tool caches / coverage
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.coverage
+htmlcov/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Streamlit secrets (project-level)
+**/.streamlit/secrets.toml
+
+# App data you probably want local-only (remove if you want to version them)
+job_market_tech_dashboard_llm/data/*.csv
+job_market_tech_dashboard_llm/data/llm_cache.json
+job_market_tech_dashboard_llm/data/review_queue.json

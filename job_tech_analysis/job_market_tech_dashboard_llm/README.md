@@ -8,6 +8,14 @@
 source .venv/Scripts/activate
 pip install -r requirements.txt
 streamlit run streamlit_app.py
+
+
+cd job_market_tech_dashboard_llm
+python -m venv .venv
+.venv\Scripts\Activate
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+streamlit run streamlit_app.py
 ```
 
 ## Configure the LLM

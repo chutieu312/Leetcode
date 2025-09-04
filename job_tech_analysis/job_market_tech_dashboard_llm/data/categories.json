@@ -1,0 +1,14 @@
+{
+  "AWS": "Cloud Platform",
+  "Azure": "Cloud Platform",
+  "GCP": "Cloud Platform",
+  "Kubernetes": "Container Orchestration",
+  "Docker": "Containers",
+  "SQL": "Database",
+  "NoSQL": "Database",
+  "Python": "Programming Language",
+  "Java": "Programming Language",
+  "JavaScript": "Programming Language",
+  "C++": "Programming Language",
+  "C#": "Programming Language"
+}

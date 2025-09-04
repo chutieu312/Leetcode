@@ -1,0 +1,15 @@
+{
+  "aws": "AWS",
+  "azure": "Azure",
+  "gcp": "GCP",
+  "kubernetes": "Kubernetes",
+  "k8s": "Kubernetes",
+  "docker": "Docker",
+  "sql": "SQL",
+  "nosql": "NoSQL",
+  "python": "Python",
+  "java": "Java",
+  "javascript": "JavaScript",
+  "c++": "C++",
+  "c#": "C#"
+}

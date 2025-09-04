@@ -1,0 +1,24 @@
+[
+  {
+    "term": "Rack Switches",
+    "suggested": {
+      "canonical_name": "Rack Switches",
+      "category": "Networking",
+      "confidence": 0.7,
+      "synonyms": [],
+      "reason": "Refers to networking hardware used in data centers."
+    },
+    "status": "ignored"
+  },
+  {
+    "term": "Experience with Cloud",
+    "suggested": {
+      "canonical_name": "Cloud Services",
+      "category": "Cloud Service",
+      "confidence": 0.5,
+      "synonyms": [],
+      "reason": "Vague reference to cloud services without specific technologies."
+    },
+    "status": "pending"
+  }
+]

@@ -17,5 +17,22 @@
   "networking": "Networking",
   "oracle": "Oracle Database",
   "sdn": "Software-Defined Networking",
-  "supercomputing": "Supercomputing"
+  "supercomputing": "Supercomputing",
+  "azure specialized": "Azure",
+  "cloud": "Cloud",
+  "cloud platforms": "Cloud Platforms",
+  "internet protocol": "Internet Protocol (IP)",
+  "oracle databases": "Oracle Database",
+  "transmission control": "Transmission Control Protocol (TCP)",
+  "databases": "Databases",
+  "microsoft": "Microsoft",
+  "kotlin": "Kotlin",
+  "mysql": "MySQL",
+  "api": "API",
+  "apis": "API",
+  "experience with sql": "SQL",
+  "google cloud": "Google Cloud",
+  "java and go": "Java",
+  "microsoft azure": "Microsoft Azure",
+  "rest": "REST"
 }

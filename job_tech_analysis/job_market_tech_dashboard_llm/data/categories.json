@@ -16,5 +16,17 @@
   "Networking": "Networking",
   "Oracle Database": "Database",
   "Software-Defined Networking": "Networking",
-  "Supercomputing": "Other"
+  "Supercomputing": "Other",
+  "Cloud": "Cloud Platform",
+  "Cloud Platforms": "Cloud Platform",
+  "Internet Protocol (IP)": "Networking",
+  "Transmission Control Protocol (TCP)": "Networking",
+  "Databases": "Database",
+  "Microsoft": "Cloud Platform",
+  "Kotlin": "Programming Language",
+  "MySQL": "Database",
+  "API": "Web/API",
+  "Google Cloud": "Cloud Service",
+  "Microsoft Azure": "Cloud Service",
+  "REST": "Web/API"
 }

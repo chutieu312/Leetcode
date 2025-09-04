@@ -1,22 +1,4 @@
 {
-  "ability": {
-    "term": "Ability",
-    "canonical_name": "Ability",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
-  },
-  "about": {
-    "term": "About",
-    "canonical_name": "About",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
-  },
   "acts": {
     "term": "Acts",
     "canonical_name": "Acts",
@@ -26,72 +8,18 @@
     "confidence": 0.0,
     "reason": "Parse failure"
   },
-  "additional": {
-    "term": "Additional",
-    "canonical_name": "Additional",
+  "additional or": {
+    "term": "Additional Or",
+    "canonical_name": "Additional Or",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
     "confidence": 0.0,
     "reason": "Parse failure"
   },
-  "and": {
-    "term": "AND",
-    "canonical_name": "AND",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
-  },
-  "as": {
-    "term": "As",
-    "canonical_name": "As",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
-  },
-  "bachelor": {
-    "term": "Bachelor",
-    "canonical_name": "Bachelor",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
-  },
-  "background": {
-    "term": "Background",
-    "canonical_name": "Background",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
-  },
-  "check": {
-    "term": "Check",
-    "canonical_name": "Check",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
-  },
-  "computer": {
-    "term": "Computer",
-    "canonical_name": "Computer",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
-  },
-  "contributes": {
-    "term": "Contributes",
-    "canonical_name": "Contributes",
+  "background check": {
+    "term": "Background Check",
+    "canonical_name": "Background Check",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
@@ -105,128 +33,47 @@
     "vendor": null,
     "synonyms": [],
     "confidence": 0.0,
-    "reason": "Parse failure"
-  },
-  "creates": {
-    "term": "Creates",
-    "canonical_name": "Creates",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
+    "reason": "Generic term, not specific to a technology."
   },
   "databases": {
     "term": "Databases",
     "canonical_name": "Databases",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
-  },
-  "degree": {
-    "term": "Degree",
-    "canonical_name": "Degree",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
-  },
-  "depgree": {
-    "term": "Depgree",
-    "canonical_name": "Depgree",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
-  },
-  "designated": {
-    "term": "Designated",
-    "canonical_name": "Designated",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
-  },
-  "dri": {
-    "term": "DRI",
-    "canonical_name": "DRI",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
-  },
-  "each": {
-    "term": "Each",
-    "canonical_name": "Each",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
-  },
-  "ii": {
-    "term": "II",
-    "canonical_name": "II",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
-  },
-  "individual": {
-    "term": "Individual",
-    "canonical_name": "Individual",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
-  },
-  "internet": {
-    "term": "Internet",
-    "canonical_name": "Internet",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
-  },
-  "ip": {
-    "term": "IP",
-    "canonical_name": "IP",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
-  },
-  "knowledge": {
-    "term": "Knowledge",
-    "canonical_name": "Knowledge",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
-  },
-  "kql": {
-    "term": "KQL",
-    "canonical_name": "Kusto Query Language",
     "category": "Database",
     "vendor": null,
     "synonyms": [],
-    "confidence": 1.0,
-    "reason": "KQL is a query language for Azure Data Explorer."
+    "confidence": 0.8,
+    "reason": "Common term referring to systems for storing and managing data."
   },
-  "master": {
-    "term": "Master",
-    "canonical_name": "Master",
+  "degree in computer": {
+    "term": "Degree in Computer",
+    "canonical_name": "Degree in Computer",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "depgree in computer": {
+    "term": "Depgree in Computer",
+    "canonical_name": "Depgree in Computer",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "designated responsible": {
+    "term": "Designated Responsible",
+    "canonical_name": "Designated Responsible",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "ii \nabout": {
+    "term": "II \nAbout",
+    "canonical_name": "II \nAbout",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
@@ -236,69 +83,69 @@
   "microsoft": {
     "term": "Microsoft",
     "canonical_name": "Microsoft",
+    "category": "Cloud Platform",
+    "vendor": "Microsoft",
+    "synonyms": [],
+    "confidence": 0.9,
+    "reason": "Major technology company known for cloud services."
+  },
+  "microsoft cloud": {
+    "term": "Microsoft Cloud",
+    "canonical_name": "Microsoft Cloud",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
     "confidence": 0.0,
     "reason": "Parse failure"
   },
-  "minimum": {
-    "term": "Minimum",
-    "canonical_name": "Minimum",
+  "minimum qualifications": {
+    "term": "Minimum Qualifications",
+    "canonical_name": "Minimum Qualifications",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
     "confidence": 0.0,
     "reason": "Parse failure"
   },
-  "netapp": {
-    "term": "Netapp",
-    "canonical_name": "NetApp",
-    "category": "Storage",
-    "vendor": "NetApp",
-    "synonyms": [],
-    "confidence": 1.0,
-    "reason": "NetApp is a company that provides data storage solutions."
-  },
-  "networking": {
-    "term": "Networking",
-    "canonical_name": "Networking",
-    "category": "Networking",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 1.0,
-    "reason": "Networking refers to the practice of connecting computers."
-  },
-  "or": {
-    "term": "OR",
-    "canonical_name": "OR",
+  "or master": {
+    "term": "OR Master",
+    "canonical_name": "OR Master",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
     "confidence": 0.0,
     "reason": "Parse failure"
   },
-  "oracle": {
-    "term": "Oracle",
-    "canonical_name": "Oracle Database",
-    "category": "Database",
-    "vendor": "Oracle",
-    "synonyms": [],
-    "confidence": 1.0,
-    "reason": "Oracle is a company that provides database solutions."
-  },
-  "other": {
-    "term": "Other",
-    "canonical_name": "Other",
+  "or python": {
+    "term": "OR Python",
+    "canonical_name": "OR Python",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
     "confidence": 0.0,
     "reason": "Parse failure"
   },
-  "preferred": {
-    "term": "Preferred",
-    "canonical_name": "Preferred",
+  "other requirements": {
+    "term": "Other Requirements",
+    "canonical_name": "Other Requirements",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "platforms": {
+    "term": "Platforms",
+    "canonical_name": "Platforms",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Generic term, not specific to a technology."
+  },
+  "preferred qualifications": {
+    "term": "Preferred Qualifications",
+    "canonical_name": "Preferred Qualifications",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
@@ -314,9 +161,18 @@
     "confidence": 0.0,
     "reason": "Parse failure"
   },
-  "qualifications": {
-    "term": "Qualifications",
-    "canonical_name": "Qualifications",
+  "python\nor": {
+    "term": "Python\nOR",
+    "canonical_name": "Python\nOR",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "qualifications\n\nrequired": {
+    "term": "Qualifications\n\nRequired",
+    "canonical_name": "Qualifications\n\nRequired",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
@@ -332,6 +188,15 @@
     "confidence": 0.0,
     "reason": "Parse failure"
   },
+  "rack switches": {
+    "term": "Rack Switches",
+    "canonical_name": "Rack Switches",
+    "category": "Networking",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.7,
+    "reason": "Refers to networking hardware used in data centers."
+  },
   "remains": {
     "term": "Remains",
     "canonical_name": "Remains",
@@ -341,157 +206,380 @@
     "confidence": 0.0,
     "reason": "Parse failure"
   },
-  "required": {
-    "term": "Required",
-    "canonical_name": "Required",
+  "responsibilities\n\nworks": {
+    "term": "Responsibilities\n\nWorks",
+    "canonical_name": "Responsibilities\n\nWorks",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
     "confidence": 0.0,
     "reason": "Parse failure"
   },
-  "requirements": {
-    "term": "Requirements",
-    "canonical_name": "Requirements",
+  "science\nor": {
+    "term": "Science\nOR",
+    "canonical_name": "Science\nOR",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
     "confidence": 0.0,
     "reason": "Parse failure"
   },
-  "responsibilities": {
-    "term": "Responsibilities",
-    "canonical_name": "Responsibilities",
+  "software engineer": {
+    "term": "Software Engineer",
+    "canonical_name": "Software Engineer",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
     "confidence": 0.0,
     "reason": "Parse failure"
   },
-  "responsible": {
-    "term": "Responsible",
-    "canonical_name": "Responsible",
+  "this": {
+    "term": "This",
+    "canonical_name": "This",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
     "confidence": 0.0,
     "reason": "Parse failure"
   },
-  "science": {
-    "term": "Science",
-    "canonical_name": "Science",
+  "backend": {
+    "term": "Backend",
+    "canonical_name": "Backend",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
     "confidence": 0.0,
-    "reason": "Parse failure"
+    "reason": "Backend is a general term and not a specific technology."
   },
-  "sdn": {
-    "term": "SDN",
-    "canonical_name": "Software-Defined Networking",
-    "category": "Networking",
+  "base": {
+    "term": "Base",
+    "canonical_name": "Base",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Base is a general term and not a specific technology."
+  },
+  "kotlin": {
+    "term": "Kotlin",
+    "canonical_name": "Kotlin",
+    "category": "Programming Language",
     "vendor": null,
     "synonyms": [],
     "confidence": 1.0,
-    "reason": "SDN refers to a networking architecture."
+    "reason": "Kotlin is a well-known programming language."
   },
-  "software-defined": {
-    "term": "Software-Defined",
-    "canonical_name": "Software-Defined",
+  "kotlin.\nyou": {
+    "term": "Kotlin.\nYou",
+    "canonical_name": "Kotlin.\nYou",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
     "confidence": 0.0,
     "reason": "Parse failure"
   },
-  "specialized": {
-    "term": "Specialized",
-    "canonical_name": "Specialized",
+  "look": {
+    "term": "Look",
+    "canonical_name": "Look",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Look is a general term and not a specific technology."
+  },
+  "look for": {
+    "term": "Look For",
+    "canonical_name": "Look For",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Look For is part of a phrase and not a specific technology."
+  },
+  "mysql": {
+    "term": "MySQL",
+    "canonical_name": "MySQL",
+    "category": "Database",
+    "vendor": "Oracle",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "MySQL is a widely used relational database management system."
+  },
+  "mysql and kubernetes": {
+    "term": "MySQL and Kubernetes",
+    "canonical_name": "MySQL and Kubernetes",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
     "confidence": 0.0,
     "reason": "Parse failure"
   },
-  "supercomputing": {
-    "term": "Supercomputing",
-    "canonical_name": "Supercomputing",
-    "category": "Other",
+  "time": {
+    "term": "Time",
+    "canonical_name": "Time",
+    "category": "Unknown",
     "vendor": null,
     "synonyms": [],
-    "confidence": 0.8,
-    "reason": "Supercomputing refers to high-performance computing."
+    "confidence": 0.0,
+    "reason": "Time is a general term and not a specific technology."
   },
-  "switches": {
-    "term": "Switches",
-    "canonical_name": "Switches",
+  "what we": {
+    "term": "What We",
+    "canonical_name": "What We",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "What We is part of a phrase and not a specific technology."
+  },
+  "api": {
+    "term": "API",
+    "canonical_name": "API",
+    "category": "Web/API",
+    "vendor": null,
+    "synonyms": [
+      "Application Programming Interface"
+    ],
+    "confidence": 1.0,
+    "reason": "Commonly used term in software development for defining interfaces."
+  },
+  "apis": {
+    "term": "APIs",
+    "canonical_name": "API",
+    "category": "Web/API",
+    "vendor": null,
+    "synonyms": [
+      "Application Programming Interfaces"
+    ],
+    "confidence": 1.0,
+    "reason": "Plural form of API, widely recognized in software development."
+  },
+  "computer science": {
+    "term": "Computer Science",
+    "canonical_name": "Computer Science",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Field of study, not a technology or tool."
+  },
+  "driven": {
+    "term": "Driven",
+    "canonical_name": "Driven",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Adjective, not a technology or tool."
+  },
+  "engineering": {
+    "term": "Engineering",
+    "canonical_name": "Engineering",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Field of work, not a technology or tool."
+  },
+  "excellence": {
+    "term": "Excellence",
+    "canonical_name": "Excellence",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Concept, not a technology or tool."
+  },
+  "excellence. we": {
+    "term": "Excellence. We",
+    "canonical_name": "Excellence. We",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
     "confidence": 0.0,
     "reason": "Parse failure"
   },
-  "tcp": {
-    "term": "TCP",
-    "canonical_name": "TCP",
+  "excellent": {
+    "term": "Excellent",
+    "canonical_name": "Excellent",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Adjective, not a technology or tool."
+  },
+  "experience with cloud": {
+    "term": "Experience with Cloud",
+    "canonical_name": "Cloud Services",
+    "category": "Cloud Service",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.5,
+    "reason": "Vague reference to cloud services without specific technologies."
+  },
+  "experience with sql": {
+    "term": "Experience with SQL",
+    "canonical_name": "SQL",
+    "category": "Database",
+    "vendor": null,
+    "synonyms": [
+      "Structured Query Language"
+    ],
+    "confidence": 1.0,
+    "reason": "Standard language for managing and manipulating databases."
+  },
+  "google": {
+    "term": "Google",
+    "canonical_name": "Google",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
     "confidence": 0.0,
     "reason": "Parse failure"
   },
-  "the": {
-    "term": "The",
-    "canonical_name": "The",
+  "google cloud": {
+    "term": "Google Cloud",
+    "canonical_name": "Google Cloud",
+    "category": "Cloud Service",
+    "vendor": "Google",
+    "synonyms": [
+      "Google Cloud Platform",
+      "GCP"
+    ],
+    "confidence": 1.0,
+    "reason": "Well-known cloud service provider."
+  },
+  "java and go": {
+    "term": "Java and Go",
+    "canonical_name": "Java",
+    "category": "Programming Language",
+    "vendor": null,
+    "synonyms": [
+      "Java",
+      "Go"
+    ],
+    "confidence": 1.0,
+    "reason": "Both are recognized programming languages."
+  },
+  "microsoft azure": {
+    "term": "Microsoft Azure",
+    "canonical_name": "Microsoft Azure",
+    "category": "Cloud Service",
+    "vendor": "Microsoft",
+    "synonyms": [
+      "Azure"
+    ],
+    "confidence": 1.0,
+    "reason": "Popular cloud computing service."
+  },
+  "mindful": {
+    "term": "Mindful",
+    "canonical_name": "Mindful",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
     "confidence": 0.0,
     "reason": "Parse failure"
   },
-  "these": {
-    "term": "These",
-    "canonical_name": "These",
+  "pay": {
+    "term": "Pay",
+    "canonical_name": "Pay",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Concept related to compensation, not a technology or tool."
+  },
+  "platform": {
+    "term": "Platform",
+    "canonical_name": "Platform",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "General term, not specific to a technology or tool."
+  },
+  "platform services": {
+    "term": "Platform Services",
+    "canonical_name": "Platform Services",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Vague term, not specific to a technology or tool."
+  },
+  "product": {
+    "term": "Product",
+    "canonical_name": "Product",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "General term, not specific to a technology or tool."
+  },
+  "product and engineering": {
+    "term": "Product and Engineering",
+    "canonical_name": "Product and Engineering",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Combination of roles, not a technology or tool."
+  },
+  "remote": {
+    "term": "Remote",
+    "canonical_name": "Remote",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Work arrangement, not a technology or tool."
+  },
+  "rest": {
+    "term": "REST",
+    "canonical_name": "REST",
+    "category": "Web/API",
+    "vendor": null,
+    "synonyms": [
+      "Representational State Transfer"
+    ],
+    "confidence": 1.0,
+    "reason": "Common architectural style for designing networked applications."
+  },
+  "self-starter": {
+    "term": "Self-starter",
+    "canonical_name": "Self-starter",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Descriptive term for a person, not a technology or tool."
+  },
+  "services": {
+    "term": "Services",
+    "canonical_name": "Services",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
     "confidence": 0.0,
     "reason": "Parse failure"
   },
-  "top": {
-    "term": "Top",
-    "canonical_name": "Top",
+  "the software": {
+    "term": "The Software",
+    "canonical_name": "The Software",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
     "confidence": 0.0,
-    "reason": "Parse failure"
+    "reason": "Vague reference, not a specific technology or tool."
   },
-  "transmission": {
-    "term": "Transmission",
-    "canonical_name": "Transmission",
+  "willing": {
+    "term": "Willing",
+    "canonical_name": "Willing",
     "category": "Unknown",
     "vendor": null,
     "synonyms": [],
     "confidence": 0.0,
-    "reason": "Parse failure"
-  },
-  "understanding": {
-    "term": "Understanding",
-    "canonical_name": "Understanding",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
-  },
-  "works": {
-    "term": "Works",
-    "canonical_name": "Works",
-    "category": "Unknown",
-    "vendor": null,
-    "synonyms": [],
-    "confidence": 0.0,
-    "reason": "Parse failure"
+    "reason": "Adjective, not a technology or tool."
   }
 }

@@ -495,7 +495,7 @@ with st.expander("🧰 Review queue (low-confidence detections)"):
                 except Exception:
                     idx_cat = CATEGORIES.index("Other")
                 cat = st.selectbox(f"Category #{idx}", options=CATEGORIES, index=idx_cat, key=f"cat_{idx}")
-                cols = st.columns(3)
+                cols = st.columns(4)
                 accept = cols[0].button("Accept", key=f"acc_{idx}")
                 skip = cols[1].button("Skip", key=f"skip_{idx}")
                 delete = cols[2].button("Delete", key=f"del_{idx}")

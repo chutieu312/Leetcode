@@ -10,5 +10,11 @@
   "Java": "Programming Language",
   "JavaScript": "Programming Language",
   "C++": "Programming Language",
-  "C#": "Programming Language"
+  "C#": "Programming Language",
+  "Kusto Query Language": "Database",
+  "NetApp": "Storage",
+  "Networking": "Networking",
+  "Oracle Database": "Database",
+  "Software-Defined Networking": "Networking",
+  "Supercomputing": "Other"
 }

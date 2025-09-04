@@ -29,3 +29,4 @@ Thumbs.db
 job_market_tech_dashboard_llm/data/*.csv
 job_market_tech_dashboard_llm/data/llm_cache.json
 job_market_tech_dashboard_llm/data/review_queue.json
+**/data/ignore_terms.json

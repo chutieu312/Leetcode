@@ -25,6 +25,47 @@ SKILLS_CSV = os.path.join(DATA_DIR, "skills.csv")
 CACHE_PATH = os.path.join(DATA_DIR, "llm_cache.json")
 REVIEW_Q_PATH = os.path.join(DATA_DIR, "review_queue.json")
 
+# Step 1: Add after file path constants
+IGNORE_PATH = os.path.join(DATA_DIR, "ignore_terms.json")
+
+def load_ignores():
+    return load_json(IGNORE_PATH, [])
+
+def save_ignores(items):
+    save_json(IGNORE_PATH, items)
+
+STOPWORD_TOKENS = {
+    # ...copy the full set from the suggestion...
+    "A","An","And","As","About","Ability","Additional","All","Also","AND","Any","Applicant",
+    "Bachelor","Background","Basic","Bonus","Check","Company","Computer","Contributes","Creates",
+    "Degree","Depgree","Designated","DRI","Each","Education","Eligible","Eligibility","Engineer",
+    "Experience","II","Individual","Internet","IP","Knowledge","Master","Minimum","Mission",
+    "Must","Nice","OR","Other","Overview","Preferred","Qualifications","Required","Requirements",
+    "Responsibilities","Responsible","Science","Software","Software-Defined","Specialized",
+    "Switches","TCP","The","These","Top","Transmission","Understanding","Work","Works"
+}
+
+KNOWN_SHORT_TECH = {"C","R","Go","C#","C++","SQL","TCP/IP","SDN"}
+
+CONTEXT_TRIGGERS = {
+    # ...copy the full set from the suggestion...
+    "experience with","proficient in","knowledge of","familiar with","using",
+    "worked with","hands-on","expertise in","implement","design","build",
+    "deploy","monitor","observability","pipeline","ci/cd","infrastructure",
+    "sdn","tcp/ip","database","databases","kubernetes","cloud","aws","azure","gcp"
+}
+
+def has_context_near(text_l: str, token: str, window_words: int = 8) -> bool:
+    # Find first occurrence; look ±window for triggers
+    m = re.search(re.escape(token), text_l, flags=re.I)
+    if not m: 
+        return False
+    start = m.start()
+    # crude word window
+    left = max(0, start - 300)
+    window = text_l[left:start+300]
+    return any(t in window for t in CONTEXT_TRIGGERS)
+
 REQUIRED_HEADERS = [r"required", r"requirements", r"must have", r"basic qualifications", r"responsibilities"]
 PREFERRED_HEADERS = [r"preferred", r"preferred qualifications", r"nice to have", r"good to have", r"bonus"]
 WEIGHTS = {"required": 2.0, "preferred": 1.5, "mention": 1.0}
@@ -89,13 +130,45 @@ def classify_position(pos, req_idx, pref_idx):
     return "mention"
 
 def cheap_candidates(jd_text):
-    skip = {"We","You","What","That","This","Our","Your","And","Or","API","APIs","Team","Teams","Remote","Hybrid","Onsite","Backend","Frontend","Engineer","Software","System","Systems","Platform","Platforms","Cloud","Services","Company","Mission","Benefits"}
-    tokens = set()
-    for m in re.finditer(r"\b([A-Z][a-zA-Z0-9\+\#\.\-]{1,}|[A-Z]{2,}|[a-zA-Z]+SQL|NoSQL)\b", jd_text):
+    """
+    Extract candidate tech terms while filtering out common non-tech words.
+    - Keeps ProperCase tokens, ALLCAPS, and things like NoSQL/SQL.
+    - Drops sentence-starter fluff (STOPWORD_TOKENS).
+    - Drops 1–2 letter tokens unless white-listed in KNOWN_SHORT_TECH.
+    - Prefers tokens that appear near tech-y context words.
+    """
+    text_l = jd_text.lower()
+
+    # 1) raw candidates (single tokens)
+    raw = set()
+    for m in re.finditer(r"\b([A-Z][a-zA-Z0-9+\#\.\-]{1,}|[A-Z]{2,}|[a-zA-Z]+SQL|NoSQL)\b", jd_text):
         tok = m.group(0).strip()
-        if tok in skip: continue
-        tokens.add(tok)
-    return tokens
+        raw.add(tok)
+
+    # 2) light pass for multi-word tech phrases (e.g., "Software Defined Networking", "Top of Rack")
+    for m in re.finditer(r"\b([A-Z][\w\+\#\.\-]*(?:\s+(?:of|and|for|to|in|on|as|with))?\s+[A-Z][\w\+\#\.\-]*)\b", jd_text):
+        phrase = m.group(0).strip()
+        if len(phrase.split()) <= 5:  # keep short phrases only
+            raw.add(phrase)
+
+    # 3) filter junk
+    kept = set()
+    ignores = set(load_ignores())
+    for tok in raw:
+        if tok in ignores:
+            continue
+        if tok in STOPWORD_TOKENS:
+            continue
+        if len(tok) <= 2 and tok not in KNOWN_SHORT_TECH:
+            continue
+        # Sentence starters like "About", "Ability" often appear capitalized but not tech
+        if tok.istitle() and tok.lower() not in {"mysql","mongodb","postgresql"} and not has_context_near(text_l, tok):
+            # if it doesn't sit near context, skip it
+            continue
+        kept.add(tok)
+
+    return kept
+
 
 def alias_pass(jd_text, alias_map):
     text_l = jd_text.lower()
@@ -205,37 +278,64 @@ TERMS:
         return results, cache, to_query
 
 def extract_with_llm_fallback(jd_text, alias_map, categories, conf_threshold=0.75):
+    """
+    Extract skills with alias/regex first, then use LLM for unknowns.
+    Tightened gating: require tech context (unless token is tech-shaped),
+    drop very-low-confidence unknowns, and only queue meaningful items.
+    """
     cache = load_json(CACHE_PATH, {})
     review_q = load_json(REVIEW_Q_PATH, [])
 
+    # 1) Known mappings & regex aliases
     found = alias_pass(jd_text, alias_map)
     cands = cheap_candidates(jd_text)
+    text_l = jd_text.lower()
+
+    # 2) Build unknown list (not already found/aliased), with context guard
     unknowns = []
-    low_text = jd_text.lower()
     for tok in sorted(cands, key=str.lower):
-        if tok in found: continue
-        if tok.lower() in alias_map: continue
-        if tok == "Go" and not re.search(r"\bgolang\b", low_text): 
+        if tok in found:
+            continue
+        if tok.lower() in alias_map:
+            continue
+        if tok == "Go" and not re.search(r"\bgolang\b", text_l):
+            continue
+        # Require context unless obviously tech-shaped (contains digits/+/# or ends with SQL)
+        tech_shaped = bool(re.search(r"(SQL$|NoSQL$|[+#\d])", tok))
+        if not tech_shaped and not has_context_near(text_l, tok):
             continue
         unknowns.append(tok)
 
+    # 3) LLM classification
     llm_results, cache, asked = llm_classify_unknowns(unknowns, jd_text, cache)
+
+    # 4) Accept / ignore / queue
     learned = []
+    LOW_CONF_DROP = 0.30  # anything below this = silently ignore (no queue)
     for tok in unknowns:
-        info = llm_results.get(tok, {"canonical_name":tok,"category":"Unknown","confidence":0.0,"synonyms":[]})
+        info = llm_results.get(tok, {"canonical_name": tok, "category": "Unknown", "confidence": 0.0, "synonyms": []})
         canon = info.get("canonical_name", tok).strip()
-        cat = info.get("category", "Unknown").strip() or "Unknown"
-        conf = float(info.get("confidence", 0.0))
+        cat = (info.get("category") or "Unknown").strip()
+        conf = float(info.get("confidence") or 0.0)
+
         if conf >= conf_threshold and cat != "Unknown":
+            # Auto-accept & learn
             alias_map[tok.lower()] = canon
             if canon not in categories:
                 categories[canon] = cat
             pos = jd_text.find(tok)
-            if pos == -1: pos = 0
+            if pos == -1:
+                pos = 0
             found[canon] = min(found.get(canon, pos), pos)
-            learned.append({"term":tok,"canonical_name":canon,"category":categories[canon],"confidence":conf})
+            learned.append({"term": tok, "canonical_name": canon, "category": categories[canon], "confidence": conf})
+        elif conf < LOW_CONF_DROP and cat == "Unknown":
+            # Do not clutter the queue with obvious non-tech; persist ignore so it won't recur
+            ignores = set(load_ignores())
+            ignores.add(tok)
+            save_ignores(sorted(ignores))
         else:
-            exists = any(q.get("term","").lower()==tok.lower() for q in review_q)
+            # Queue for review (avoid duplicate pending items)
+            exists = any(q.get("term", "").lower() == tok.lower() and q.get("status") == "pending" for q in review_q)
             if not exists:
                 review_q.append({
                     "term": tok,
@@ -244,14 +344,16 @@ def extract_with_llm_fallback(jd_text, alias_map, categories, conf_threshold=0.7
                         "category": cat,
                         "confidence": conf,
                         "synonyms": info.get("synonyms", []),
-                        "reason": info.get("reason","")
+                        "reason": info.get("reason", "")
                     },
                     "status": "pending"
                 })
 
+    # 5) Persist maps & queue and return results
     save_maps(alias_map, categories)
     save_json(REVIEW_Q_PATH, review_q)
     return found, learned
+
 
 def append_job_and_skills(job_row, jd_text, alias_map, categories, conf_threshold):
     text_l = jd_text.lower()
@@ -397,6 +499,7 @@ with st.expander("🧰 Review queue (low-confidence detections)"):
                 accept = cols[0].button("Accept", key=f"acc_{idx}")
                 skip = cols[1].button("Skip", key=f"skip_{idx}")
                 delete = cols[2].button("Delete", key=f"del_{idx}")
+                ignore = cols[3].button("Ignore term", key=f"ign_{idx}")
                 if accept:
                     alias_map[item['term'].lower()] = canon or item['term']
                     if (canon or item['term']) not in categories:
@@ -406,6 +509,11 @@ with st.expander("🧰 Review queue (low-confidence detections)"):
                     item["status"] = "skipped"
                 elif delete:
                     item["status"] = "deleted"
+                elif ignore:
+                    ig = set(load_ignores())
+                    ig.add(item['term'])
+                    save_ignores(sorted(ig))
+                    item["status"] = "ignored"
             new_items.append(item)
         save_maps(alias_map, categories)
         save_json(REVIEW_Q_PATH, new_items)

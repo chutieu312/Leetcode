@@ -1,1 +1,497 @@
-{}
+{
+  "ability": {
+    "term": "Ability",
+    "canonical_name": "Ability",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "about": {
+    "term": "About",
+    "canonical_name": "About",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "acts": {
+    "term": "Acts",
+    "canonical_name": "Acts",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "additional": {
+    "term": "Additional",
+    "canonical_name": "Additional",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "and": {
+    "term": "AND",
+    "canonical_name": "AND",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "as": {
+    "term": "As",
+    "canonical_name": "As",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "bachelor": {
+    "term": "Bachelor",
+    "canonical_name": "Bachelor",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "background": {
+    "term": "Background",
+    "canonical_name": "Background",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "check": {
+    "term": "Check",
+    "canonical_name": "Check",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "computer": {
+    "term": "Computer",
+    "canonical_name": "Computer",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "contributes": {
+    "term": "Contributes",
+    "canonical_name": "Contributes",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "control": {
+    "term": "Control",
+    "canonical_name": "Control",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "creates": {
+    "term": "Creates",
+    "canonical_name": "Creates",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "databases": {
+    "term": "Databases",
+    "canonical_name": "Databases",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "degree": {
+    "term": "Degree",
+    "canonical_name": "Degree",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "depgree": {
+    "term": "Depgree",
+    "canonical_name": "Depgree",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "designated": {
+    "term": "Designated",
+    "canonical_name": "Designated",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "dri": {
+    "term": "DRI",
+    "canonical_name": "DRI",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "each": {
+    "term": "Each",
+    "canonical_name": "Each",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "ii": {
+    "term": "II",
+    "canonical_name": "II",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "individual": {
+    "term": "Individual",
+    "canonical_name": "Individual",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "internet": {
+    "term": "Internet",
+    "canonical_name": "Internet",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "ip": {
+    "term": "IP",
+    "canonical_name": "IP",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "knowledge": {
+    "term": "Knowledge",
+    "canonical_name": "Knowledge",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "kql": {
+    "term": "KQL",
+    "canonical_name": "Kusto Query Language",
+    "category": "Database",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "KQL is a query language for Azure Data Explorer."
+  },
+  "master": {
+    "term": "Master",
+    "canonical_name": "Master",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "microsoft": {
+    "term": "Microsoft",
+    "canonical_name": "Microsoft",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "minimum": {
+    "term": "Minimum",
+    "canonical_name": "Minimum",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "netapp": {
+    "term": "Netapp",
+    "canonical_name": "NetApp",
+    "category": "Storage",
+    "vendor": "NetApp",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "NetApp is a company that provides data storage solutions."
+  },
+  "networking": {
+    "term": "Networking",
+    "canonical_name": "Networking",
+    "category": "Networking",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Networking refers to the practice of connecting computers."
+  },
+  "or": {
+    "term": "OR",
+    "canonical_name": "OR",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "oracle": {
+    "term": "Oracle",
+    "canonical_name": "Oracle Database",
+    "category": "Database",
+    "vendor": "Oracle",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Oracle is a company that provides database solutions."
+  },
+  "other": {
+    "term": "Other",
+    "canonical_name": "Other",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "preferred": {
+    "term": "Preferred",
+    "canonical_name": "Preferred",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "protocol": {
+    "term": "Protocol",
+    "canonical_name": "Protocol",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "qualifications": {
+    "term": "Qualifications",
+    "canonical_name": "Qualifications",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "rack": {
+    "term": "Rack",
+    "canonical_name": "Rack",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "remains": {
+    "term": "Remains",
+    "canonical_name": "Remains",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "required": {
+    "term": "Required",
+    "canonical_name": "Required",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "requirements": {
+    "term": "Requirements",
+    "canonical_name": "Requirements",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "responsibilities": {
+    "term": "Responsibilities",
+    "canonical_name": "Responsibilities",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "responsible": {
+    "term": "Responsible",
+    "canonical_name": "Responsible",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "science": {
+    "term": "Science",
+    "canonical_name": "Science",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "sdn": {
+    "term": "SDN",
+    "canonical_name": "Software-Defined Networking",
+    "category": "Networking",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "SDN refers to a networking architecture."
+  },
+  "software-defined": {
+    "term": "Software-Defined",
+    "canonical_name": "Software-Defined",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "specialized": {
+    "term": "Specialized",
+    "canonical_name": "Specialized",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "supercomputing": {
+    "term": "Supercomputing",
+    "canonical_name": "Supercomputing",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.8,
+    "reason": "Supercomputing refers to high-performance computing."
+  },
+  "switches": {
+    "term": "Switches",
+    "canonical_name": "Switches",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "tcp": {
+    "term": "TCP",
+    "canonical_name": "TCP",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "the": {
+    "term": "The",
+    "canonical_name": "The",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "these": {
+    "term": "These",
+    "canonical_name": "These",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "top": {
+    "term": "Top",
+    "canonical_name": "Top",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "transmission": {
+    "term": "Transmission",
+    "canonical_name": "Transmission",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "understanding": {
+    "term": "Understanding",
+    "canonical_name": "Understanding",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "works": {
+    "term": "Works",
+    "canonical_name": "Works",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  }
+}

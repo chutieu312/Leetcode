@@ -11,5 +11,11 @@
   "java": "Java",
   "javascript": "JavaScript",
   "c++": "C++",
-  "c#": "C#"
+  "c#": "C#",
+  "kql": "Kusto Query Language",
+  "netapp": "NetApp",
+  "networking": "Networking",
+  "oracle": "Oracle Database",
+  "sdn": "Software-Defined Networking",
+  "supercomputing": "Supercomputing"
 }

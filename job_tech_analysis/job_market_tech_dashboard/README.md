@@ -9,6 +9,7 @@ A one-click dashboard to track which technologies appear in the job descriptions
    ```
 2. Run the app:
    ```bash
+   source .venv/Scripts/Activate
    streamlit run streamlit_app.py
    ```
 3. In the left sidebar, paste new job descriptions and press **Add Posting**.

@@ -1,0 +1,55 @@
+{
+  "title": "AI Tools Mastery Kanban",
+  "type": "board",
+  "columns": [
+    {
+      "name": "Backlog",
+      "cards": [
+        {
+          "title": "Week 1 (Prompting) - Learn zero-shot, few-shot, role-based prompts"
+        },
+        {
+          "title": "Week 2 (Prompting) - Build an Email Rewriter mini app"
+        },
+        {
+          "title": "Week 3 (Prompting) - Apply chain-of-thought prompting with a Q&A bot"
+        },
+        {
+          "title": "Week 4 (RAG) - Understand embeddings & similarity search (FAISS/Pinecone)"
+        },
+        {
+          "title": "Week 5 (RAG) - Build 'Chat with your PDF' app"
+        },
+        {
+          "title": "Week 6 (RAG) - Compare embedding models & chunking strategies"
+        },
+        {
+          "title": "Week 7 (Evals) - Learn eval frameworks (OpenAI Evals, TruLens)"
+        },
+        {
+          "title": "Week 8 (Evals) - Add style & toxicity checks to your chatbot"
+        },
+        {
+          "title": "Week 9 (Evals) - Run stress tests & analyze failures"
+        },
+        {
+          "title": "Week 10 (Agents) - Build simple API-calling agent with LangChain"
+        },
+        {
+          "title": "Week 11 (Agents) - Add memory & multi-step reasoning (research assistant)"
+        },
+        {
+          "title": "Week 12 (Agents) - Full pipeline → AI agent that researches & writes report"
+        }
+      ]
+    },
+    {
+      "name": "In Progress",
+      "cards": []
+    },
+    {
+      "name": "Done",
+      "cards": []
+    }
+  ]
+}

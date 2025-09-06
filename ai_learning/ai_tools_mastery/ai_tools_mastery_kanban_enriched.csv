@@ -1,0 +1,13 @@
+Column,Week,Focus Area,Difficulty,Portfolio,Task
+Backlog,1,Prompting,Beginner,Yes,"Learn zero-shot, few-shot, role-based prompts"
+Backlog,2,Prompting,Beginner,Yes,Build an Email Rewriter mini app
+Backlog,3,Prompting,Intermediate,Yes,Apply chain-of-thought prompting with a Q&A bot
+Backlog,4,RAG,Intermediate,Yes,Understand embeddings & similarity search (FAISS/Pinecone)
+Backlog,5,RAG,Intermediate,Yes,Build 'Chat with your PDF' app
+Backlog,6,RAG,Advanced,Yes,Compare embedding models & chunking strategies
+Backlog,7,Evals,Intermediate,No,"Learn eval frameworks (OpenAI Evals, TruLens)"
+Backlog,8,Evals,Intermediate,Yes,Add style & toxicity checks to your chatbot
+Backlog,9,Evals,Advanced,Yes,Run stress tests & analyze failures
+Backlog,10,Agents,Intermediate,Yes,Build simple API-calling agent with LangChain
+Backlog,11,Agents,Advanced,Yes,Add memory & multi-step reasoning (research assistant)
+Backlog,12,Agents,Advanced,Yes,Full pipeline → AI agent that researches & writes report

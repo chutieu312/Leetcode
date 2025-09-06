@@ -1,0 +1,13 @@
+Column,Task
+Backlog,"Week 1 (Prompting) - Learn zero-shot, few-shot, role-based prompts"
+Backlog,Week 2 (Prompting) - Build an Email Rewriter mini app
+Backlog,Week 3 (Prompting) - Apply chain-of-thought prompting with a Q&A bot
+Backlog,Week 4 (RAG) - Understand embeddings & similarity search (FAISS/Pinecone)
+Backlog,Week 5 (RAG) - Build 'Chat with your PDF' app
+Backlog,Week 6 (RAG) - Compare embedding models & chunking strategies
+Backlog,"Week 7 (Evals) - Learn eval frameworks (OpenAI Evals, TruLens)"
+Backlog,Week 8 (Evals) - Add style & toxicity checks to your chatbot
+Backlog,Week 9 (Evals) - Run stress tests & analyze failures
+Backlog,Week 10 (Agents) - Build simple API-calling agent with LangChain
+Backlog,Week 11 (Agents) - Add memory & multi-step reasoning (research assistant)
+Backlog,Week 12 (Agents) - Full pipeline → AI agent that researches & writes report

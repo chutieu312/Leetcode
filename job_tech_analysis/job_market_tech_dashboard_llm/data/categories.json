@@ -28,5 +28,12 @@
   "API": "Web/API",
   "Google Cloud": "Cloud Service",
   "Microsoft Azure": "Cloud Service",
-  "REST": "Web/API"
+  "REST": "Web/API",
+  "Agile": "Other",
+  "APIs": "Web/API",
+  "DevOps": "Other",
+  "RESTful": "Web/API",
+  "SCRUM": "Other",
+  "Spring Framework": "Runtime/Framework",
+  "Cloud Services": "Cloud Service"
 }

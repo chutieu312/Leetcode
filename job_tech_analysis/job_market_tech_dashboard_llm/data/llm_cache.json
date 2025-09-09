@@ -581,5 +581,373 @@
     "synonyms": [],
     "confidence": 0.0,
     "reason": "Adjective, not a technology or tool."
+  },
+  "agile": {
+    "term": "Agile",
+    "canonical_name": "Agile",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.8,
+    "reason": "Agile is a methodology used in software development."
+  },
+  "apis\nparticipate": {
+    "term": "APIs\nParticipate",
+    "canonical_name": "APIs",
+    "category": "Web/API",
+    "vendor": null,
+    "synonyms": [
+      "Application Programming Interfaces"
+    ],
+    "confidence": 0.9,
+    "reason": "APIs are a set of rules for building and interacting with software applications."
+  },
+  "being": {
+    "term": "Being",
+    "canonical_name": "Being",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "betting": {
+    "term": "Betting",
+    "canonical_name": "Betting",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "build": {
+    "term": "Build",
+    "canonical_name": "Build",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "collaborate": {
+    "term": "Collaborate",
+    "canonical_name": "Collaborate",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "contribute": {
+    "term": "Contribute",
+    "canonical_name": "Contribute",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "description": {
+    "term": "Description",
+    "canonical_name": "Description",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "desire": {
+    "term": "Desire",
+    "canonical_name": "Desire",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "devops": {
+    "term": "DevOps",
+    "canonical_name": "DevOps",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.8,
+    "reason": "DevOps is a set of practices that combines software development and IT operations."
+  },
+  "effective": {
+    "term": "Effective",
+    "canonical_name": "Effective",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "exposure": {
+    "term": "Exposure",
+    "canonical_name": "Exposure",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "exposure to agile": {
+    "term": "Exposure to Agile",
+    "canonical_name": "Exposure to Agile",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "familiarity": {
+    "term": "Familiarity",
+    "canonical_name": "Familiarity",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "familiarity with ci": {
+    "term": "Familiarity with CI",
+    "canonical_name": "Familiarity with CI",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "fanatics": {
+    "term": "Fanatics",
+    "canonical_name": "Fanatics",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "fanatics betting": {
+    "term": "Fanatics Betting",
+    "canonical_name": "Fanatics Betting",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "fbg": {
+    "term": "FBG",
+    "canonical_name": "FBG",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "framework": {
+    "term": "Framework",
+    "canonical_name": "Framework",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "gaming": {
+    "term": "Gaming",
+    "canonical_name": "Gaming",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "interest": {
+    "term": "Interest",
+    "canonical_name": "Interest",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "job": {
+    "term": "Job",
+    "canonical_name": "Job",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "job description": {
+    "term": "Job Description",
+    "canonical_name": "Job Description",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "little": {
+    "term": "Little",
+    "canonical_name": "Little",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "open": {
+    "term": "Open",
+    "canonical_name": "Open",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "overview\n\n\nat": {
+    "term": "Overview\n\n\nAt",
+    "canonical_name": "Overview\n\n\nAt",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "participate": {
+    "term": "Participate",
+    "canonical_name": "Participate",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "required qualifications": {
+    "term": "Required Qualifications",
+    "canonical_name": "Required Qualifications",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "responsibilities\n\ncontribute": {
+    "term": "Responsibilities\n\nContribute",
+    "canonical_name": "Responsibilities\n\nContribute",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "restful": {
+    "term": "RESTful",
+    "canonical_name": "RESTful",
+    "category": "Web/API",
+    "vendor": null,
+    "synonyms": [
+      "REST"
+    ],
+    "confidence": 0.9,
+    "reason": "RESTful refers to an architectural style for designing networked applications."
+  },
+  "scrum": {
+    "term": "SCRUM",
+    "canonical_name": "SCRUM",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.8,
+    "reason": "SCRUM is an agile process framework for managing complex knowledge work."
+  },
+  "simply": {
+    "term": "Simply",
+    "canonical_name": "Simply",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "spring": {
+    "term": "Spring",
+    "canonical_name": "Spring Framework",
+    "category": "Runtime/Framework",
+    "vendor": "Pivotal Software",
+    "synonyms": [
+      "Spring Framework"
+    ],
+    "confidence": 0.95,
+    "reason": "Spring is a framework for building Java applications."
+  },
+  "spring framework": {
+    "term": "Spring Framework",
+    "canonical_name": "Spring Framework",
+    "category": "Runtime/Framework",
+    "vendor": "Pivotal Software",
+    "synonyms": [
+      "Spring"
+    ],
+    "confidence": 0.95,
+    "reason": "Spring Framework is a comprehensive framework for enterprise Java development."
+  },
+  "stay": {
+    "term": "Stay",
+    "canonical_name": "Stay",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "strong": {
+    "term": "Strong",
+    "canonical_name": "Strong",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "take": {
+    "term": "Take",
+    "canonical_name": "Take",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "team-first": {
+    "term": "Team-first",
+    "canonical_name": "Team-first",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "understanding of restful": {
+    "term": "Understanding of RESTful",
+    "canonical_name": "Understanding of RESTful",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "you": {
+    "term": "You",
+    "canonical_name": "You",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
   }
 }

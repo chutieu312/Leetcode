@@ -20,5 +20,16 @@
       "reason": "Vague reference to cloud services without specific technologies."
     },
     "status": "accepted"
+  },
+  {
+    "term": "Search",
+    "suggested": {
+      "canonical_name": "Search",
+      "category": "Other",
+      "confidence": 0.5,
+      "synonyms": [],
+      "reason": "Search is mentioned in the context of Azure services but lacks specificity."
+    },
+    "status": "pending"
   }
 ]

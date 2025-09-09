@@ -42,5 +42,10 @@
   "scrum": "SCRUM",
   "spring": "Spring Framework",
   "spring framework": "Spring Framework",
-  "experience with cloud": "Cloud Services"
+  "experience with cloud": "Cloud Services",
+  "arg": "Azure Resource Graph",
+  "arm": "Azure Resource Manager",
+  "azure control": "Azure Control Plane",
+  "azure inventory": "Azure Inventory",
+  "azure market": "Azure Marketplace"
 }

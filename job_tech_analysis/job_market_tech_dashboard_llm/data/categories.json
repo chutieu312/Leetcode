@@ -35,5 +35,10 @@
   "RESTful": "Web/API",
   "SCRUM": "Other",
   "Spring Framework": "Runtime/Framework",
-  "Cloud Services": "Cloud Service"
+  "Cloud Services": "Cloud Service",
+  "Azure Resource Graph": "Cloud Service",
+  "Azure Resource Manager": "Cloud Service",
+  "Azure Control Plane": "Cloud Service",
+  "Azure Inventory": "Cloud Service",
+  "Azure Marketplace": "Cloud Service"
 }

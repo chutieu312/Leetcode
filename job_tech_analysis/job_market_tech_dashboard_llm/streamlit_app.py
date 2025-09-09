@@ -473,6 +473,158 @@ else:
     agg['weighted_percent'] = (agg['weighted_rows'] / total_jobs * 100).round(1)
     st.dataframe(agg, use_container_width=True)
     st.bar_chart(agg.set_index('skill_canonical')['jobs_with_skill'])
+    
+    
+# --- Job report ---
+st.divider()
+st.subheader("📄 Job report")
+
+# Session state defaults
+st.session_state.setdefault("jr_open", False)
+st.session_state.setdefault("jr_order", "Newest first")
+st.session_state.setdefault("jr_use_date", False)
+
+def _toggle_report():
+    st.session_state.jr_open = not st.session_state.jr_open
+
+def _show_report():
+    st.session_state.jr_open = True
+
+# Compute date bounds from data (safe if empty)
+if jobs.empty or jobs["date_applied"].isna().all():
+    min_date = max_date = date.today()
+else:
+    min_date = min(j for j in jobs["date_applied"] if pd.notna(j))
+    max_date = max(j for j in jobs["date_applied"] if pd.notna(j))
+
+# Controls
+c1, c2, c3, c4 = st.columns([1.1, 0.9, 1.2, 0.9])
+
+with c1:
+    st.session_state.jr_order = st.radio(
+        "Order",
+        ["Oldest first", "Newest first"],
+        horizontal=True,
+        index=1,  # default: Newest first
+        on_change=_show_report,
+        key="jr_order_radio",
+    )
+    # Keep a simple string in jr_order for readability
+    st.session_state.jr_order = st.session_state.jr_order_radio
+
+with c2:
+    st.session_state.jr_use_date = st.checkbox(
+        "Filter by date range",
+        value=False,  # default: OFF
+        on_change=_show_report,
+        key="jr_use_date_chk",
+    )
+
+# Date pickers (only show when enabled)
+with c3:
+    if st.session_state.jr_use_date:
+        st.session_state.setdefault("jr_start", min_date)
+        st.date_input(
+            "Start date",
+            value=st.session_state.jr_start,
+            min_value=min_date,
+            max_value=max_date,
+            key="jr_start",
+            on_change=_show_report,
+        )
+    else:
+        st.write("")  # spacer
+
+with c4:
+    if st.session_state.jr_use_date:
+        st.session_state.setdefault("jr_end", max_date)
+        st.date_input(
+            "End date",
+            value=st.session_state.jr_end,
+            min_value=min_date,
+            max_value=max_date,
+            key="jr_end",
+            on_change=_show_report,
+        )
+    else:
+        st.write("")  # spacer
+
+# Toggle button
+st.button("Job report", help="Show / hide the job report", on_click=_toggle_report)
+
+# Render (or hide) the report
+if st.session_state.jr_open:
+    if jobs.empty:
+        st.info("No jobs recorded yet.")
+    else:
+        # Build working frame with needed columns (+ ids & jd for toggling)
+        df = jobs[["job_id", "company", "title", "work_type", "date_applied", "source", "jd_text"]].copy()
+
+        # Optional date filtering (only if enabled)
+        if st.session_state.jr_use_date:
+            start = st.session_state.get("jr_start", min_date)
+            end   = st.session_state.get("jr_end", max_date)
+            if start > end:
+                start, end = end, start
+            df = df[(df["date_applied"] >= start) & (df["date_applied"] <= end)]
+
+        # Sort (default: Newest first)
+        ascending = (st.session_state.jr_order == "Oldest first")
+        df = df.sort_values("date_applied", ascending=ascending, kind="mergesort").reset_index(drop=True)
+
+        # Add running number in display order
+        df.insert(0, "number", range(1, len(df) + 1))
+
+        # --- Interactive tabular render with clickable Title toggle ---
+        # Prepare per-row open state store
+        if "jr_row_open" not in st.session_state:
+            st.session_state.jr_row_open = {}
+
+        # Header row
+        h1, h2, h3, h4, h5, h6 = st.columns([0.6, 1.5, 2.2, 1.2, 1.2, 1.4])
+        h1.markdown("**#**")
+        h2.markdown("**Company**")
+        h3.markdown("**Title (click to toggle JD)**")
+        h4.markdown("**Work type**")
+        h5.markdown("**Date applied**")
+        h6.markdown("**Source**")
+
+        # Rows
+        for _, r in df.iterrows():
+            job_id = str(r["job_id"])
+            st.session_state.jr_row_open.setdefault(job_id, False)
+
+            c1, c2, c3, c4, c5, c6 = st.columns([0.6, 1.5, 2.2, 1.2, 1.2, 1.4])
+            c1.write(int(r["number"]))
+            c2.write(r["company"])
+
+            # Title as a toggle button
+            if c3.button(str(r["title"]), key=f"jr_title_{job_id}"):
+                st.session_state.jr_row_open[job_id] = not st.session_state.jr_row_open[job_id]
+
+            c4.write(r["work_type"] if pd.notna(r["work_type"]) and r["work_type"] != "" else "-")
+            # Ensure date prints nicely even if dtype is object
+            date_val = r["date_applied"]
+            try:
+                date_str = pd.to_datetime(date_val).date().isoformat()
+            except Exception:
+                date_str = str(date_val)
+            c5.write(date_str)
+            c6.write(r["source"] if pd.notna(r["source"]) and r["source"] != "" else "-")
+
+            # Conditional JD render below the row
+            if st.session_state.jr_row_open[job_id]:
+                # Slight indent via empty column + container
+                _, jd_col = st.columns([0.6, 5.5])
+                with jd_col:
+                    st.markdown(
+                        "<div style='padding:10px; border:1px solid #e5e7eb; border-radius:8px;'>"
+                        "<b>Job Description</b></div>",
+                        unsafe_allow_html=True,
+                    )
+                    st.text(r["jd_text"] or "")
+                st.markdown("")  # spacer line
+
 
 st.divider()
 with st.expander("🧰 Review queue (low-confidence detections)"):

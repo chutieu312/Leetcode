@@ -949,5 +949,320 @@
     "synonyms": [],
     "confidence": 0.0,
     "reason": "Parse failure"
+  },
+  "anything": {
+    "term": "Anything",
+    "canonical_name": "Anything",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "arg": {
+    "term": "ARG",
+    "canonical_name": "Azure Resource Graph",
+    "category": "Cloud Service",
+    "vendor": "Microsoft",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "ARG is a core service within Azure that organizes cloud resources."
+  },
+  "arg. it": {
+    "term": "ARG. It",
+    "canonical_name": "ARG. It",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "arm": {
+    "term": "ARM",
+    "canonical_name": "Azure Resource Manager",
+    "category": "Cloud Service",
+    "vendor": "Microsoft",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "ARM is a service that manages Azure resources."
+  },
+  "azure control": {
+    "term": "Azure Control",
+    "canonical_name": "Azure Control Plane",
+    "category": "Cloud Service",
+    "vendor": "Microsoft",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Azure Control Plane is part of Azure's infrastructure for managing resources."
+  },
+  "azure inventory": {
+    "term": "Azure Inventory",
+    "canonical_name": "Azure Inventory",
+    "category": "Cloud Service",
+    "vendor": "Microsoft",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Azure Inventory refers to the organization of cloud resources."
+  },
+  "azure market": {
+    "term": "Azure Market",
+    "canonical_name": "Azure Marketplace",
+    "category": "Cloud Service",
+    "vendor": "Microsoft",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Azure Marketplace is a service for discovering and purchasing cloud applications."
+  },
+  "azure resource": {
+    "term": "Azure Resource",
+    "canonical_name": "Azure Resource",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "azure. \ncrreate": {
+    "term": "Azure. \nCrreate",
+    "canonical_name": "Azure. \nCrreate",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "azure. azure": {
+    "term": "Azure. Azure",
+    "canonical_name": "Azure. Azure",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "catalog": {
+    "term": "Catalog",
+    "canonical_name": "Catalog",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "crreate": {
+    "term": "Crreate",
+    "canonical_name": "Crreate",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "databases\nresponsibilities": {
+    "term": "Databases\nResponsibilities",
+    "canonical_name": "Databases\nResponsibilities",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "deep": {
+    "term": "Deep",
+    "canonical_name": "Deep",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "drive": {
+    "term": "Drive",
+    "canonical_name": "Drive",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "embody": {
+    "term": "Embody",
+    "canonical_name": "Embody",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "graph": {
+    "term": "Graph",
+    "canonical_name": "Graph",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "ic3": {
+    "term": "IC3",
+    "canonical_name": "IC3",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "inventory": {
+    "term": "Inventory",
+    "canonical_name": "Inventory",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "market": {
+    "term": "Market",
+    "canonical_name": "Market",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "microsoft security": {
+    "term": "Microsoft Security",
+    "canonical_name": "Microsoft Security",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "our": {
+    "term": "Our",
+    "canonical_name": "Our",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "place": {
+    "term": "Place",
+    "canonical_name": "Place",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "portal": {
+    "term": "Portal",
+    "canonical_name": "Portal",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "python \nor": {
+    "term": "Python \nOR",
+    "canonical_name": "Python \nOR",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "qualifications\nrequired": {
+    "term": "Qualifications\nRequired",
+    "canonical_name": "Qualifications\nRequired",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "reliably": {
+    "term": "Reliably",
+    "canonical_name": "Reliably",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "resource": {
+    "term": "Resource",
+    "canonical_name": "Resource",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "responsibilities\ndrive": {
+    "term": "Responsibilities\nDrive",
+    "canonical_name": "Responsibilities\nDrive",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "search": {
+    "term": "Search",
+    "canonical_name": "Search",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.5,
+    "reason": "Search is mentioned in the context of Azure services but lacks specificity."
+  },
+  "software engineering": {
+    "term": "Software Engineering",
+    "canonical_name": "Software Engineering",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Software Engineering is a field, not a specific technology or tool."
+  },
+  "the microsoft": {
+    "term": "The Microsoft",
+    "canonical_name": "The Microsoft",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "there": {
+    "term": "There",
+    "canonical_name": "There",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "u.s": {
+    "term": "U.S",
+    "canonical_name": "U.S",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "usd": {
+    "term": "USD",
+    "canonical_name": "USD",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
   }
 }

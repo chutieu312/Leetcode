@@ -1264,5 +1264,1268 @@
     "synonyms": [],
     "confidence": 0.0,
     "reason": "Parse failure"
+  },
+  "ai. this": {
+    "term": "AI. This",
+    "canonical_name": "AI. This",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "application": {
+    "term": "Application",
+    "canonical_name": "Application",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "application development": {
+    "term": "Application Development",
+    "canonical_name": "Application Development",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "building": {
+    "term": "Building",
+    "canonical_name": "Building",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "career": {
+    "term": "Career",
+    "canonical_name": "Career",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "career level": {
+    "term": "Career Level",
+    "canonical_name": "Career Level",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "certain": {
+    "term": "Certain",
+    "canonical_name": "Certain",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "certain us": {
+    "term": "Certain US",
+    "canonical_name": "Certain US",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "demonstrated": {
+    "term": "Demonstrated",
+    "canonical_name": "Demonstrated",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "development": {
+    "term": "Development",
+    "canonical_name": "Development",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "disclaimer": {
+    "term": "Disclaimer",
+    "canonical_name": "Disclaimer",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "dropwizard": {
+    "term": "Dropwizard",
+    "canonical_name": "Dropwizard",
+    "category": "Runtime/Framework",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Recognized microservices framework for Java."
+  },
+  "engineers": {
+    "term": "Engineers",
+    "canonical_name": "Engineers",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "financial": {
+    "term": "Financial",
+    "canonical_name": "Financial",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "for": {
+    "term": "For",
+    "canonical_name": "For",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "health": {
+    "term": "Health",
+    "canonical_name": "Health",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "helidon": {
+    "term": "Helidon",
+    "canonical_name": "Helidon",
+    "category": "Runtime/Framework",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Java framework for microservices."
+  },
+  "ic3\n\n\nrequired": {
+    "term": "IC3\n\n\nRequired",
+    "canonical_name": "IC3\n\n\nRequired",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "java development": {
+    "term": "Java Development",
+    "canonical_name": "Java",
+    "category": "Programming Language",
+    "vendor": null,
+    "synonyms": [
+      "Java"
+    ],
+    "confidence": 1.0,
+    "reason": "Refers to the programming language used for development."
+  },
+  "level": {
+    "term": "Level",
+    "canonical_name": "Level",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "may": {
+    "term": "May",
+    "canonical_name": "May",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "member": {
+    "term": "Member",
+    "canonical_name": "Member",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "microservices": {
+    "term": "Microservices",
+    "canonical_name": "Microservices",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Architectural style for developing applications as a collection of loosely coupled services."
+  },
+  "microservices\nabout": {
+    "term": "Microservices\nAbout",
+    "canonical_name": "Microservices\nAbout",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "oracle health": {
+    "term": "Oracle Health",
+    "canonical_name": "Oracle Health",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "purchase": {
+    "term": "Purchase",
+    "canonical_name": "Purchase",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "purchase plan": {
+    "term": "Purchase Plan",
+    "canonical_name": "Purchase Plan",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "qualifications\ndisclaimer": {
+    "term": "Qualifications\nDisclaimer",
+    "canonical_name": "Qualifications\nDisclaimer",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "qualifications \n\nbs": {
+    "term": "Qualifications \n\nBS",
+    "canonical_name": "Qualifications \n\nBS",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "range": {
+    "term": "Range",
+    "canonical_name": "Range",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "responsibilities\nminimum": {
+    "term": "Responsibilities\nMinimum",
+    "canonical_name": "Responsibilities\nMinimum",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "sdlc": {
+    "term": "SDLC",
+    "canonical_name": "Software Development Life Cycle",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Process for planning, creating, testing, and deploying software."
+  },
+  "senior": {
+    "term": "Senior",
+    "canonical_name": "Senior",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "senior member": {
+    "term": "Senior Member",
+    "canonical_name": "Senior Member",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "skills\ncloud": {
+    "term": "Skills\nCloud",
+    "canonical_name": "Skills\nCloud",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "smts": {
+    "term": "SMTS",
+    "canonical_name": "SMTS",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "staff": {
+    "term": "Staff",
+    "canonical_name": "Staff",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "technical": {
+    "term": "Technical",
+    "canonical_name": "Technical",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "technical staff": {
+    "term": "Technical Staff",
+    "canonical_name": "Technical Staff",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "that": {
+    "term": "That",
+    "canonical_name": "That",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "us\nas": {
+    "term": "Us\nAs",
+    "canonical_name": "Us\nAs",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "voluntary": {
+    "term": "Voluntary",
+    "canonical_name": "Voluntary",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "analyze": {
+    "term": "Analyze",
+    "canonical_name": "Analyze",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Analyze is a verb and not a specific technology or tool."
+  },
+  "apple": {
+    "term": "Apple",
+    "canonical_name": "Apple",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "apple pay": {
+    "term": "Apple Pay",
+    "canonical_name": "Apple Pay",
+    "category": "Payment Service",
+    "vendor": "Apple",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Apple Pay is a digital wallet service and mobile payment system."
+  },
+  "base pay": {
+    "term": "Base Pay",
+    "canonical_name": "Base Pay",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Base Pay is a term related to compensation and not a specific technology or tool."
+  },
+  "builds": {
+    "term": "Builds",
+    "canonical_name": "Builds",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "checkout": {
+    "term": "Checkout",
+    "canonical_name": "Checkout",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.5,
+    "reason": "Checkout refers to the process of completing a purchase, but is not a specific technology."
+  },
+  "develop": {
+    "term": "Develop",
+    "canonical_name": "Develop",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Develop is a verb and not a specific technology or tool."
+  },
+  "do\n\nparticipate": {
+    "term": "Do\n\nParticipate",
+    "canonical_name": "Do Participate",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "This appears to be a formatting error and not a specific technology or tool."
+  },
+  "employees": {
+    "term": "Employees",
+    "canonical_name": "Employees",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Employees is a noun and not a specific technology or tool."
+  },
+  "equity": {
+    "term": "Equity",
+    "canonical_name": "Equity",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Equity is a financial term and not a specific technology or tool."
+  },
+  "experience with checkout": {
+    "term": "Experience with Checkout",
+    "canonical_name": "Experience with Checkout",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "This is a phrase describing experience and not a specific technology or tool."
+  },
+  "google pay": {
+    "term": "Google Pay",
+    "canonical_name": "Google Pay",
+    "category": "Payment Service",
+    "vendor": "Google",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Google Pay is a digital wallet and online payment system developed by Google."
+  },
+  "grade": {
+    "term": "Grade",
+    "canonical_name": "Grade",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Grade is a noun and not a specific technology or tool."
+  },
+  "implement": {
+    "term": "Implement",
+    "canonical_name": "Implement",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Implement is a verb and not a specific technology or tool."
+  },
+  "l\n\nequity": {
+    "term": "L\n\nEquity",
+    "canonical_name": "L Equity",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "This appears to be a formatting error and not a specific technology or tool."
+  },
+  "los": {
+    "term": "Los",
+    "canonical_name": "Los",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Los is a noun and not a specific technology or tool."
+  },
+  "optimize": {
+    "term": "Optimize",
+    "canonical_name": "Optimize",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Optimize is a verb and not a specific technology or tool."
+  },
+  "participate in agile": {
+    "term": "Participate in Agile",
+    "canonical_name": "Participate in Agile",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "preferred skills": {
+    "term": "Preferred Skills",
+    "canonical_name": "Preferred Skills",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Preferred Skills is a phrase and not a specific technology or tool."
+  },
+  "proficiency": {
+    "term": "Proficiency",
+    "canonical_name": "Proficiency",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Proficiency is a noun and not a specific technology or tool."
+  },
+  "restful api": {
+    "term": "RESTful API",
+    "canonical_name": "RESTful API",
+    "category": "Web/API",
+    "vendor": null,
+    "synonyms": [
+      "REST API"
+    ],
+    "confidence": 1.0,
+    "reason": "RESTful API refers to an application programming interface that adheres to the principles of REST."
+  },
+  "review": {
+    "term": "Review",
+    "canonical_name": "Review",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Review is a verb and not a specific technology or tool."
+  },
+  "skills": {
+    "term": "Skills",
+    "canonical_name": "Skills",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Skills is a noun and not a specific technology or tool."
+  },
+  "ux\nbackground": {
+    "term": "UX\nBackground",
+    "canonical_name": "UX Background",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "This appears to be a formatting error and not a specific technology or tool."
+  },
+  "vcn platform": {
+    "term": "VCN Platform",
+    "canonical_name": "Virtual Card Number Platform",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.8,
+    "reason": "VCN Platform refers to a system for managing virtual card numbers."
+  },
+  "visa": {
+    "term": "Visa",
+    "canonical_name": "Visa",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "what": {
+    "term": "What",
+    "canonical_name": "What",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "What is a pronoun and not a specific technology or tool."
+  },
+  "what you": {
+    "term": "What You",
+    "canonical_name": "What You",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "What You is a phrase and not a specific technology or tool."
+  },
+  "write": {
+    "term": "Write",
+    "canonical_name": "Write",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "automation": {
+    "term": "Automation",
+    "canonical_name": "Automation",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [
+      "Automation"
+    ],
+    "confidence": 0.5,
+    "reason": "Automation refers to the use of technology to perform tasks without human intervention."
+  },
+  "creative": {
+    "term": "Creative",
+    "canonical_name": "Creative",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "engineer i": {
+    "term": "Engineer I",
+    "canonical_name": "Engineer I",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "ensuring": {
+    "term": "Ensuring",
+    "canonical_name": "Ensuring",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "escalating": {
+    "term": "Escalating",
+    "canonical_name": "Escalating",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "experience with tdd": {
+    "term": "Experience with TDD",
+    "canonical_name": "Experience with TDD",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "git": {
+    "term": "Git",
+    "canonical_name": "Git",
+    "category": "Version Control",
+    "vendor": null,
+    "synonyms": [
+      "Git"
+    ],
+    "confidence": 1.0,
+    "reason": "Git is a widely used version control system."
+  },
+  "improving": {
+    "term": "Improving",
+    "canonical_name": "Improving",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "independently": {
+    "term": "Independently",
+    "canonical_name": "Independently",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "inductive": {
+    "term": "Inductive",
+    "canonical_name": "Inductive",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "inductive automation": {
+    "term": "Inductive Automation",
+    "canonical_name": "Inductive Automation",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "industrial": {
+    "term": "Industrial",
+    "canonical_name": "Industrial",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "industrial automation": {
+    "term": "Industrial Automation",
+    "canonical_name": "Industrial Automation",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "intellij": {
+    "term": "IntelliJ",
+    "canonical_name": "IntelliJ IDEA",
+    "category": "IDE",
+    "vendor": "JetBrains",
+    "synonyms": [
+      "IntelliJ IDEA"
+    ],
+    "confidence": 1.0,
+    "reason": "IntelliJ IDEA is a popular integrated development environment for Java."
+  },
+  "java jdk": {
+    "term": "Java JDK",
+    "canonical_name": "Java Development Kit",
+    "category": "Programming Language",
+    "vendor": "Oracle",
+    "synonyms": [
+      "JDK",
+      "Java SDK"
+    ],
+    "confidence": 1.0,
+    "reason": "Java JDK is the official development kit for Java programming."
+  },
+  "jdk": {
+    "term": "JDK",
+    "canonical_name": "JDK",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "kafka": {
+    "term": "Kafka",
+    "canonical_name": "Apache Kafka",
+    "category": "Messaging",
+    "vendor": "Confluent",
+    "synonyms": [
+      "Kafka"
+    ],
+    "confidence": 1.0,
+    "reason": "Kafka is a distributed event streaming platform."
+  },
+  "kafka\nnice": {
+    "term": "Kafka\nNice",
+    "canonical_name": "Kafka\nNice",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "llc": {
+    "term": "LLC",
+    "canonical_name": "LLC",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "llc. they": {
+    "term": "LLC. They",
+    "canonical_name": "LLC. They",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "maintaining": {
+    "term": "Maintaining",
+    "canonical_name": "Maintaining",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "passionate": {
+    "term": "Passionate",
+    "canonical_name": "Passionate",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "prioritizing": {
+    "term": "Prioritizing",
+    "canonical_name": "Prioritizing",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "proven": {
+    "term": "Proven",
+    "canonical_name": "Proven",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "role": {
+    "term": "Role",
+    "canonical_name": "Role",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "role\n\nthe": {
+    "term": "Role\n\nThe",
+    "canonical_name": "Role\n\nThe",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "scada": {
+    "term": "SCADA",
+    "canonical_name": "SCADA",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [
+      "Supervisory Control and Data Acquisition"
+    ],
+    "confidence": 0.8,
+    "reason": "SCADA is a system for controlling industrial processes."
+  },
+  "senior software": {
+    "term": "Senior Software",
+    "canonical_name": "Senior Software",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "solid": {
+    "term": "Solid",
+    "canonical_name": "Solid",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "tdd": {
+    "term": "TDD",
+    "canonical_name": "Test-Driven Development",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [
+      "TDD"
+    ],
+    "confidence": 0.7,
+    "reason": "TDD is a software development process that relies on the repetition of a very short development cycle."
+  },
+  "team": {
+    "term": "Team",
+    "canonical_name": "Team",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "team lead": {
+    "term": "Team Lead",
+    "canonical_name": "Team Lead",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "the senior": {
+    "term": "The Senior",
+    "canonical_name": "The Senior",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "they": {
+    "term": "They",
+    "canonical_name": "They",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "webpack": {
+    "term": "Webpack",
+    "canonical_name": "Webpack",
+    "category": "Build Tool",
+    "vendor": null,
+    "synonyms": [
+      "Webpack"
+    ],
+    "confidence": 1.0,
+    "reason": "Webpack is a module bundler for JavaScript applications."
+  },
+  "working": {
+    "term": "Working",
+    "canonical_name": "Working",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "writing": {
+    "term": "Writing",
+    "canonical_name": "Writing",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "about github": {
+    "term": "About GitHub",
+    "canonical_name": "About GitHub",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "actively": {
+    "term": "Actively",
+    "canonical_name": "Actively",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "ai-powered": {
+    "term": "AI-powered",
+    "canonical_name": "AI-powered",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "at github": {
+    "term": "At GitHub",
+    "canonical_name": "At GitHub",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "compensation": {
+    "term": "Compensation",
+    "canonical_name": "Compensation",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "compensation range": {
+    "term": "Compensation Range",
+    "canonical_name": "Compensation Range",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "demonstrate": {
+    "term": "Demonstrate",
+    "canonical_name": "Demonstrate",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "development experience": {
+    "term": "Development Experience",
+    "canonical_name": "Development Experience",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "english": {
+    "term": "English",
+    "canonical_name": "English",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "experience with kubernetes": {
+    "term": "Experience with Kubernetes",
+    "canonical_name": "Experience with Kubernetes",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "fluent": {
+    "term": "Fluent",
+    "canonical_name": "Fluent",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "fluent in english": {
+    "term": "Fluent in English",
+    "canonical_name": "Fluent in English",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "fortune": {
+    "term": "Fortune",
+    "canonical_name": "Fortune",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "github": {
+    "term": "Github",
+    "canonical_name": "Github",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "github. in": {
+    "term": "GitHub. In",
+    "canonical_name": "GitHub. In",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "iii": {
+    "term": "III",
+    "canonical_name": "III",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "linux": {
+    "term": "Linux",
+    "canonical_name": "Linux",
+    "category": "Operating System",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Linux is a widely used operating system."
+  },
+  "locations": {
+    "term": "Locations",
+    "canonical_name": "Locations",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "locations\n\nin": {
+    "term": "Locations\n\nIn",
+    "canonical_name": "Locations\n\nIn",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "over": {
+    "term": "Over",
+    "canonical_name": "Over",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "overview\n\ngithub": {
+    "term": "Overview\n\nGitHub",
+    "canonical_name": "Overview\n\nGitHub",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "own": {
+    "term": "Own",
+    "canonical_name": "Own",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "platform team": {
+    "term": "Platform Team",
+    "canonical_name": "Platform Team",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "provide": {
+    "term": "Provide",
+    "canonical_name": "Provide",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "responsibilities\n\ndemonstrate": {
+    "term": "Responsibilities\n\nDemonstrate",
+    "canonical_name": "Responsibilities\n\nDemonstrate",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "states": {
+    "term": "States",
+    "canonical_name": "States",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "united": {
+    "term": "United",
+    "canonical_name": "United",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "united states": {
+    "term": "United States",
+    "canonical_name": "United States",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "use": {
+    "term": "Use",
+    "canonical_name": "Use",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "with": {
+    "term": "With",
+    "canonical_name": "With",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
   }
 }

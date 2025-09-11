@@ -30,6 +30,43 @@
       "synonyms": [],
       "reason": "Search is mentioned in the context of Azure services but lacks specificity."
     },
+    "status": "ignored"
+  },
+  {
+    "term": "Checkout",
+    "suggested": {
+      "canonical_name": "Checkout",
+      "category": "Other",
+      "confidence": 0.5,
+      "synonyms": [],
+      "reason": "Checkout refers to the process of completing a purchase, but is not a specific technology."
+    },
+    "status": "pending"
+  },
+  {
+    "term": "Automation",
+    "suggested": {
+      "canonical_name": "Automation",
+      "category": "Other",
+      "confidence": 0.5,
+      "synonyms": [
+        "Automation"
+      ],
+      "reason": "Automation refers to the use of technology to perform tasks without human intervention."
+    },
+    "status": "pending"
+  },
+  {
+    "term": "TDD",
+    "suggested": {
+      "canonical_name": "Test-Driven Development",
+      "category": "Other",
+      "confidence": 0.7,
+      "synonyms": [
+        "TDD"
+      ],
+      "reason": "TDD is a software development process that relies on the repetition of a very short development cycle."
+    },
     "status": "pending"
   }
 ]

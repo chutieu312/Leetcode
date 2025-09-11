@@ -47,5 +47,21 @@
   "arm": "Azure Resource Manager",
   "azure control": "Azure Control Plane",
   "azure inventory": "Azure Inventory",
-  "azure market": "Azure Marketplace"
+  "azure market": "Azure Marketplace",
+  "dropwizard": "Dropwizard",
+  "helidon": "Helidon",
+  "java development": "Java",
+  "microservices": "Microservices",
+  "sdlc": "Software Development Life Cycle",
+  "apple pay": "Apple Pay",
+  "google pay": "Google Pay",
+  "restful api": "RESTful API",
+  "vcn platform": "Virtual Card Number Platform",
+  "git": "Git",
+  "intellij": "IntelliJ IDEA",
+  "java jdk": "Java Development Kit",
+  "kafka": "Apache Kafka",
+  "scada": "SCADA",
+  "webpack": "Webpack",
+  "linux": "Linux"
 }

@@ -40,5 +40,20 @@
   "Azure Resource Manager": "Cloud Service",
   "Azure Control Plane": "Cloud Service",
   "Azure Inventory": "Cloud Service",
-  "Azure Marketplace": "Cloud Service"
+  "Azure Marketplace": "Cloud Service",
+  "Dropwizard": "Runtime/Framework",
+  "Helidon": "Runtime/Framework",
+  "Microservices": "Other",
+  "Software Development Life Cycle": "Other",
+  "Apple Pay": "Payment Service",
+  "Google Pay": "Payment Service",
+  "RESTful API": "Web/API",
+  "Virtual Card Number Platform": "Other",
+  "Git": "Version Control",
+  "IntelliJ IDEA": "IDE",
+  "Java Development Kit": "Programming Language",
+  "Apache Kafka": "Messaging",
+  "SCADA": "Other",
+  "Webpack": "Build Tool",
+  "Linux": "Operating System"
 }

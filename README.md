@@ -24,3 +24,9 @@ This project contains solutions, experiments, and notes for a variety of coding 
 - Browse each subfolder for Python scripts and explanations.
 - Run the provided test functions to see example outputs.
 - Use the code as a reference for learning algorithms and preparing
+- How to use:
+  After cloning, create and activate your venv:
+  python -m venv venv
+  source venv/Scripts/activate
+  Install all dependencies:
+  pip install -r requirements.txt

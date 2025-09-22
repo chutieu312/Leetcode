@@ -5,4 +5,4 @@ set -x
 GIT_BASH="C:\Program Files\Git\git-bash.exe"
 
 # Start Streamlit app in a new Git Bash window
-"$GIT_BASH" --cd="c:/Users/canng/Leetcode/job_tech_analysis/job_market_tech_dashboard_llm" -c "source .venv/Scripts/activate && streamlit run streamlit_app.py"
+"$GIT_BASH" --cd="c:/Users/canng/Leetcode/job_tech_analysis/job_market_tech_dashboard_llm" -c "source .job_tech_venv/Scripts/activate && streamlit run streamlit_app.py"

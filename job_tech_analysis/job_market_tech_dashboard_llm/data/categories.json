@@ -55,5 +55,7 @@
   "Apache Kafka": "Messaging",
   "SCADA": "Other",
   "Webpack": "Build Tool",
-  "Linux": "Operating System"
+  "Linux": "Operating System",
+  "Test-Driven Development": "Quality/Testing",
+  "Automation": "CI/CD"
 }

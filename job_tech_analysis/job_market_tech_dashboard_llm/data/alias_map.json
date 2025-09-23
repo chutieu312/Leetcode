@@ -63,5 +63,7 @@
   "kafka": "Apache Kafka",
   "scada": "SCADA",
   "webpack": "Webpack",
-  "linux": "Linux"
+  "linux": "Linux",
+  "tdd": "Test-Driven Development",
+  "automation": "Automation"
 }

@@ -630,44 +630,73 @@ st.divider()
 with st.expander("🧰 Review queue (low-confidence detections)"):
     review_q = load_json(REVIEW_Q_PATH, [])
     alias_map, categories = load_maps()
+    # Build category options dynamically from the fixed taxonomy + anything already used
+    existing_cats = sorted(set(CATEGORIES) | set(categories.values()))
+    cat_options = existing_cats + ["+ Add new category…"]
     if not review_q:
         st.success("No pending items.")
     else:
         new_items = []
         for idx, item in enumerate(review_q):
             if item.get("status") != "pending": 
-                new_items.append(item); continue
+                new_items.append(item)
+                continue
             col = st.container()
             sug = item.get("suggested", {})
             with col:
                 st.write(f"**{item['term']}** — suggested: {sug.get('canonical_name','?')} | {sug.get('category','Unknown')} (conf {sug.get('confidence',0):.2f})")
                 canon = st.text_input(f"Canonical name #{idx}", value=sug.get("canonical_name",""), key=f"canon_{idx}")
+                # Category selector with "Add new…" affordance
                 try:
-                    idx_cat = CATEGORIES.index(sug.get("category","Unknown"))
+                    default_idx = cat_options.index(sug.get("category","Unknown")) if sug.get("category","Unknown") in cat_options else cat_options.index("Other")
                 except Exception:
-                    idx_cat = CATEGORIES.index("Other")
-                cat = st.selectbox(f"Category #{idx}", options=CATEGORIES, index=idx_cat, key=f"cat_{idx}")
+                    default_idx = cat_options.index("Other")
+                selected_cat = st.selectbox(
+                    f"Category #{idx}",
+                    options=cat_options,
+                    index=default_idx,
+                    key=f"cat_{idx}",
+                )
+                # If user wants a new category, show a text input
+                new_cat_key = f"new_cat_{idx}"
+                if selected_cat == "+ Add new category…":
+                    st.session_state.setdefault(new_cat_key, "")
+                    new_cat_value = st.text_input("New category name", key=new_cat_key, placeholder="e.g., Quality/Testing")
+                else:
+                    new_cat_value = ""
                 cols = st.columns(4)
                 accept = cols[0].button("Accept", key=f"acc_{idx}")
-                skip = cols[1].button("Skip", key=f"skip_{idx}")
+                skip   = cols[1].button("Skip",   key=f"skip_{idx}")
                 delete = cols[2].button("Delete", key=f"del_{idx}")
                 ignore = cols[3].button("Ignore term", key=f"ign_{idx}")
+                # --- Accept logic with new-category support ---
+                def _normalize_cat(name: str) -> str:
+                    return name.strip()
                 if accept:
+                    # Resolve final category
+                    final_cat = _normalize_cat(new_cat_value) if selected_cat == "+ Add new category…" and new_cat_value.strip() else selected_cat
+                    # Guardrails: fall back to "Other" if blank
+                    if not final_cat or final_cat == "+ Add new category…":
+                        final_cat = "Other"
+                    # Persist alias and category
                     alias_map[item['term'].lower()] = canon or item['term']
                     if (canon or item['term']) not in categories:
-                        categories[canon or item['term']] = cat
+                        categories[canon or item['term']] = final_cat
+                    # Also expand dynamic taxonomy so the new category appears in pickers immediately
+                    if final_cat not in CATEGORIES and final_cat not in existing_cats:
+                        existing_cats.append(final_cat)
                     item["status"] = "accepted"
+                    save_maps(alias_map, categories)
                 elif skip:
                     item["status"] = "skipped"
                 elif delete:
                     item["status"] = "deleted"
                 elif ignore:
                     ig = set(load_ignores())
-                    ig.add(item['term'])
+                    ig.add(item["term"])
                     save_ignores(sorted(ig))
                     item["status"] = "ignored"
             new_items.append(item)
-        save_maps(alias_map, categories)
         save_json(REVIEW_Q_PATH, new_items)
         st.info("Changes saved. Accepted items are added to alias/categories for future parsing. (Use 'Rebuild' below to re-parse older JDs.)")
 

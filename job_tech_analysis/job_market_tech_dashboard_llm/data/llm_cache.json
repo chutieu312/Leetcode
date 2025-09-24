@@ -2527,5 +2527,893 @@
     "synonyms": [],
     "confidence": 0.0,
     "reason": "Parse failure"
+  },
+  "agile software": {
+    "term": "Agile Software",
+    "canonical_name": "Agile Software Development",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.8,
+    "reason": "Refers to a software development methodology."
+  },
+  "bs in computer": {
+    "term": "BS in Computer",
+    "canonical_name": "BS in Computer",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "cloudwatch": {
+    "term": "CloudWatch",
+    "canonical_name": "Amazon CloudWatch",
+    "category": "Cloud Service",
+    "vendor": "Amazon",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "A monitoring and observability service provided by AWS."
+  },
+  "codes": {
+    "term": "Codes",
+    "canonical_name": "Codes",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "cognito": {
+    "term": "Cognito",
+    "canonical_name": "Amazon Cognito",
+    "category": "Cloud Service",
+    "vendor": "Amazon",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "A service for user authentication and management provided by AWS."
+  },
+  "create": {
+    "term": "Create",
+    "canonical_name": "Create",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "data": {
+    "term": "Data",
+    "canonical_name": "Data",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "data science": {
+    "term": "Data Science",
+    "canonical_name": "Data Science",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "define": {
+    "term": "Define",
+    "canonical_name": "Define",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "development and implementation": {
+    "term": "Development and Implementation",
+    "canonical_name": "Development and Implementation",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "ec2": {
+    "term": "EC2",
+    "canonical_name": "Amazon EC2",
+    "category": "Cloud Service",
+    "vendor": "Amazon",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "A web service that provides resizable compute capacity in the cloud."
+  },
+  "elasticache": {
+    "term": "ElastiCache",
+    "canonical_name": "Amazon ElastiCache",
+    "category": "Caching",
+    "vendor": "Amazon",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "A web service that adds caching to applications."
+  },
+  "end-to-end": {
+    "term": "End-to-End",
+    "canonical_name": "End-to-End",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "experience with aws": {
+    "term": "Experience with AWS",
+    "canonical_name": "Experience with AWS",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "experience with nosql": {
+    "term": "Experience with NoSQL",
+    "canonical_name": "Experience with NoSQL",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "get": {
+    "term": "Get",
+    "canonical_name": "Get",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "git and jira": {
+    "term": "Git and Jira",
+    "canonical_name": "Git and Jira",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "good": {
+    "term": "Good",
+    "canonical_name": "Good",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "identify": {
+    "term": "Identify",
+    "canonical_name": "Identify",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "implementation": {
+    "term": "Implementation",
+    "canonical_name": "Implementation",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "information": {
+    "term": "Information",
+    "canonical_name": "Information",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "information systems": {
+    "term": "Information Systems",
+    "canonical_name": "Information Systems",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "integration": {
+    "term": "Integration",
+    "canonical_name": "Integration",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "j2ee": {
+    "term": "J2EE",
+    "canonical_name": "Java 2 Platform, Enterprise Edition",
+    "category": "Runtime/Framework",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "A platform for building enterprise applications in Java."
+  },
+  "java-based": {
+    "term": "Java-based",
+    "canonical_name": "Java",
+    "category": "Programming Language",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Refers to applications developed using the Java programming language."
+  },
+  "jira": {
+    "term": "Jira",
+    "canonical_name": "Jira",
+    "category": "Other",
+    "vendor": "Atlassian",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "A tool for project management and issue tracking."
+  },
+  "kubernetes\nexperience": {
+    "term": "Kubernetes\nExperience",
+    "canonical_name": "Kubernetes\nExperience",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "leads": {
+    "term": "Leads",
+    "canonical_name": "Leads",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "load": {
+    "term": "Load",
+    "canonical_name": "Load",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "maven": {
+    "term": "Maven",
+    "canonical_name": "Apache Maven",
+    "category": "Other",
+    "vendor": "Apache",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "A build automation tool used primarily for Java projects."
+  },
+  "mongodb": {
+    "term": "MongoDB",
+    "canonical_name": "MongoDB",
+    "category": "Database",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "A NoSQL database program."
+  },
+  "nodejs": {
+    "term": "NodeJS",
+    "canonical_name": "Node.js",
+    "category": "Runtime/Framework",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "A JavaScript runtime built on Chrome's V8 JavaScript engine."
+  },
+  "npm": {
+    "term": "NPM",
+    "canonical_name": "npm",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "A package manager for JavaScript."
+  },
+  "postgresql": {
+    "term": "PostgreSQL",
+    "canonical_name": "PostgreSQL",
+    "category": "Database",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "An open-source relational database management system."
+  },
+  "present": {
+    "term": "Present",
+    "canonical_name": "Present",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "productive": {
+    "term": "Productive",
+    "canonical_name": "Productive",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "rabbitmq": {
+    "term": "RabbitMQ",
+    "canonical_name": "RabbitMQ",
+    "category": "Messaging",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "An open-source message broker software."
+  },
+  "react": {
+    "term": "React",
+    "canonical_name": "React",
+    "category": "Frontend Framework",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "A JavaScript library for building user interfaces."
+  },
+  "redis": {
+    "term": "Redis",
+    "canonical_name": "Redis",
+    "category": "Caching",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "An open-source in-memory data structure store."
+  },
+  "refactor": {
+    "term": "Refactor",
+    "canonical_name": "Refactor",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "responsibilities\n\nproductive": {
+    "term": "Responsibilities\n\nProductive",
+    "canonical_name": "Responsibilities\n\nProductive",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "server": {
+    "term": "Server",
+    "canonical_name": "Server",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "sms": {
+    "term": "SMS",
+    "canonical_name": "SMS",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "sns": {
+    "term": "SNS",
+    "canonical_name": "Amazon SNS",
+    "category": "Messaging",
+    "vendor": "Amazon",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "A fully managed messaging service for both application-to-application and application-to-person communication."
+  },
+  "sql server": {
+    "term": "SQL Server",
+    "canonical_name": "Microsoft SQL Server",
+    "category": "Database",
+    "vendor": "Microsoft",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "A relational database management system developed by Microsoft."
+  },
+  "sqs": {
+    "term": "SQS",
+    "canonical_name": "Amazon SQS",
+    "category": "Messaging",
+    "vendor": "Amazon",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "A fully managed message queuing service."
+  },
+  "strong agile": {
+    "term": "Strong Agile",
+    "canonical_name": "Strong Agile",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "systems": {
+    "term": "Systems",
+    "canonical_name": "Systems",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "typescript": {
+    "term": "Typescript",
+    "canonical_name": "TypeScript",
+    "category": "Programming Language",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "A superset of JavaScript that compiles to plain JavaScript."
+  },
+  "unit": {
+    "term": "Unit",
+    "canonical_name": "Unit",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "act": {
+    "term": "Act",
+    "canonical_name": "Act",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "angeles": {
+    "term": "Angeles",
+    "canonical_name": "Angeles",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "architect": {
+    "term": "Architect",
+    "canonical_name": "Architect",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "based": {
+    "term": "Based",
+    "canonical_name": "Based",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "bring": {
+    "term": "Bring",
+    "canonical_name": "Bring",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "california": {
+    "term": "California",
+    "canonical_name": "California",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "california fair": {
+    "term": "California Fair",
+    "canonical_name": "California Fair",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "chance": {
+    "term": "Chance",
+    "canonical_name": "Chance",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "chance act": {
+    "term": "Chance Act",
+    "canonical_name": "Chance Act",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "chance ordinance": {
+    "term": "Chance Ordinance",
+    "canonical_name": "Chance Ordinance",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "communicate": {
+    "term": "Communicate",
+    "canonical_name": "Communicate",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "conduct": {
+    "term": "Conduct",
+    "canonical_name": "Conduct",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "county": {
+    "term": "County",
+    "canonical_name": "County",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "county fair": {
+    "term": "County Fair",
+    "canonical_name": "County Fair",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "derive": {
+    "term": "Derive",
+    "canonical_name": "Derive",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "devops\nfluency": {
+    "term": "DevOps\nFluency",
+    "canonical_name": "DevOps\nFluency",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "do\nas": {
+    "term": "Do\nAs",
+    "canonical_name": "Do\nAs",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "eager": {
+    "term": "Eager",
+    "canonical_name": "Eager",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "employers": {
+    "term": "Employers",
+    "canonical_name": "Employers",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "experience with docker": {
+    "term": "Experience with Docker",
+    "canonical_name": "Experience with Docker",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "fair": {
+    "term": "Fair",
+    "canonical_name": "Fair",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "fluency": {
+    "term": "Fluency",
+    "canonical_name": "Fluency",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "for all": {
+    "term": "For All",
+    "canonical_name": "For All",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "knowledge of python": {
+    "term": "Knowledge of Python",
+    "canonical_name": "Knowledge of Python",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "los angeles": {
+    "term": "Los Angeles",
+    "canonical_name": "Los Angeles",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "modify": {
+    "term": "Modify",
+    "canonical_name": "Modify",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "ms sql": {
+    "term": "MS SQL",
+    "canonical_name": "Microsoft SQL Server",
+    "category": "Database",
+    "vendor": "Microsoft",
+    "synonyms": [
+      "SQL Server"
+    ],
+    "confidence": 1.0,
+    "reason": "MS SQL is a relational database management system developed by Microsoft."
+  },
+  "nosql databases": {
+    "term": "NoSQL Databases",
+    "canonical_name": "NoSQL Databases",
+    "category": "Database",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "NoSQL databases are a class of database management systems that do not use the traditional relational model."
+  },
+  "npm package": {
+    "term": "NPM Package",
+    "canonical_name": "NPM",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [
+      "NPM Package Manager"
+    ],
+    "confidence": 1.0,
+    "reason": "NPM is a package manager for JavaScript, allowing developers to share and reuse code."
+  },
+  "object-oriented": {
+    "term": "Object-Oriented",
+    "canonical_name": "Object-Oriented",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "object-oriented programming": {
+    "term": "Object-Oriented Programming",
+    "canonical_name": "Object-Oriented Programming",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "oop": {
+    "term": "OOP",
+    "canonical_name": "OOP",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "ordinance": {
+    "term": "Ordinance",
+    "canonical_name": "Ordinance",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "package": {
+    "term": "Package",
+    "canonical_name": "Package",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "programming": {
+    "term": "Programming",
+    "canonical_name": "Programming",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "propose": {
+    "term": "Propose",
+    "canonical_name": "Propose",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "python\nbachelor": {
+    "term": "Python\nBachelor",
+    "canonical_name": "Python\nBachelor",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "rdbms": {
+    "term": "RDBMS",
+    "canonical_name": "Relational Database Management System",
+    "category": "Database",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "RDBMS refers to a type of database management system that is based on the relational model."
+  },
+  "relational": {
+    "term": "Relational",
+    "canonical_name": "Relational",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "relational databases": {
+    "term": "Relational Databases",
+    "canonical_name": "Relational Databases",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "rest api": {
+    "term": "REST API",
+    "canonical_name": "REST API",
+    "category": "Web/API",
+    "vendor": null,
+    "synonyms": [
+      "Representational State Transfer API"
+    ],
+    "confidence": 1.0,
+    "reason": "REST API is an architectural style for designing networked applications using HTTP requests."
+  },
+  "ruby": {
+    "term": "Ruby",
+    "canonical_name": "Ruby",
+    "category": "Programming Language",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Ruby is a dynamic, open-source programming language with a focus on simplicity and productivity."
+  },
+  "salary": {
+    "term": "Salary",
+    "canonical_name": "Salary",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "salary range": {
+    "term": "Salary Range",
+    "canonical_name": "Salary Range",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "strong rdbms": {
+    "term": "Strong RDBMS",
+    "canonical_name": "Strong RDBMS",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "thorough": {
+    "term": "Thorough",
+    "canonical_name": "Thorough",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "windows": {
+    "term": "Windows",
+    "canonical_name": "Windows",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "work with solution": {
+    "term": "Work with Solution",
+    "canonical_name": "Work with Solution",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
   }
 }

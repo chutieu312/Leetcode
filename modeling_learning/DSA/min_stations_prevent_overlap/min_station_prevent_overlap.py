@@ -28,3 +28,20 @@ def _test():
     
     
 _test()
+
+
+from typing import List
+
+def subarray_sum(nums: List[int], k: int) -> int:
+    prefix_count = {0: 1}                               # prefix value -> frequency; empty prefix sum 0 seen once
+    total = 0                                           # running prefix sum
+    count = 0                                           # number of valid subarrays
+
+    for x in nums:                                      # scan each element
+        total += x                                      # extend prefix sum
+        need = total - k                                # we need a previous prefix equal to (total - k)
+        if need in prefix_count:                        # if such a prefix was seen
+            count += prefix_count[need]                 # add its frequency
+        prefix_count[total] = prefix_count.get(total, 0) + 1  # record current prefix sum
+
+    return count                                        # total subarrays summing to k

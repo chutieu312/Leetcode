@@ -538,3 +538,256 @@ First American will consider for employment all qualified applicants, including 
 First American intends to conduct a review of an applicant’s criminal history in connection with a conditional offer. First American reasonably believes that a criminal history may have a direct, adverse and negative relationship with the following material job duties for this position potentially resulting in the withdrawal of the conditional offer of employment: handling of confidential, proprietary or trade secret information belonging to First American or its customers, administrating or facilitating financial transactions, and the ability to meet customer-imposed criminal history requirements.
 
 Based on eligibility, First American offers a comprehensive benefits package including medical, dental, vision, 401k, PTO/paid sick leave and other great benefits like an employee stock purchase plan.",,Remote,Senior (SDE III+)
+2025-10-07_GOOGLE_SOFTWAREENGINEERIII,2025-10-07,google,software engineer III,irvine,https://www.google.com/about/careers/applications/jobs/results/99171459850478278-software-engineer-iii/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract,,"About the job
+Applicants in the County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.
+
+Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Mountain View, CA, USA; Irvine, CA, USA; Los Angeles, CA, USA.Minimum qualifications:
+
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development in C++, or 1 year of experience with an advanced degree.
+2 years of experience with full stack development, across back-end such as Java, Python, GO, or C++ codebases, and front-end experience including JavaScript or TypeScript, HTML, CSS or equivalent.
+
+Preferred qualifications:
+
+Master's degree or PhD in Computer Science or related technical field.
+2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+2 years of experience with data structures or algorithms in either an academic or industry setting.
+Experience developing accessible technologies.
+Proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+About The Job
+
+Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+With your technical expertise you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.
+
+Google Ads is helping power the open internet with the best technology that connects and creates value for people, publishers, advertisers, and Google. We’re made up of multiple teams, building Google’s Advertising products including search, display, shopping, travel and video advertising, as well as analytics. Our teams create trusted experiences between people and businesses with useful ads. We help grow businesses of all sizes from small businesses, to large brands, to YouTube creators, with effective advertiser tools that deliver measurable results. We also enable Google to engage with customers at scale.
+
+The US base salary range for this full-time position is $141,000-$202,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .
+
+Responsibilities
+
+Write product or system development code. 
+Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies. 
+Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency). 
+Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback. 
+Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality. 
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .",,Onsite,Senior (SDE III+)
+2025-10-07_ACTIUMHEALTH_SOFTWAREENGINEERIII,2025-10-07,ActiumHealth,software engineer III,,https://www.indeed.com/?_gl=1*1cd050m*_gcl_au*MTg1MzQ4NzAxMS4xNzU5ODc1Mjgz*_ga*MjA3MzY5MDkwMy4xNzU5ODc1MTc2*_ga_5KTMMETCF4*czE3NTk4NzUyODQkbzEkZzEkdDE3NTk4NzUzNTEkajYwJGwwJGgw*_fplc*NktuVm5INFJlRFZqZXdVMlVhRnplekM3dTEyUUxUTmFtdUdpOXdNY0hGZ2VFREFIVVUxbm1xMEtoQjBwRENaUjhFZkFPNkxJVUE0UERqUG1mdkRlNWM4JTJCSW4yeklZa1JtTFl0VTJNZFl1dVVEclpjMWNFZTg4MEpkbVZNNHclM0QlM0Q.&vjk=e1fb09f1862e0865,,"Full job description
+Senior Software Engineer
+
+Location: Remote
+
+About ActiumHealth
+ActiumHealth is the largest AI Agent Patient Communication Platform and has been in the space since 2017. Health systems rely on us to scale their patient communications by automating inbound and outbound interactions across calls / SMS / chat and QA of all staff-patient interactions. Leading healthcare organizations such as Houston Methodist, MemorialCare, and Virtua have automated over 50M calls and 100M outreach messages with ActiumHealth across 6+ languages.
+Position Overview
+ActiumHealth is seeking an experienced Staff Software Engineer to join our team. You will be responsible for architecting, building, and maintaining services, tools, and applications on a Generative AI Platform. You will work with stakeholders in a highly collaborative scrum team, delivering frequent updates and value to our customers. This is an opportunity to work at the forefront of AI.
+Key Responsibilities
+Develop systems that support complex workflows by leveraging the conversation ability of LLMs
+Design and build automated simulators to validate the performance and adherence of LLMs at scale
+Evaluate performance of AI Agents at scale by developing monitoring, evaluation, and learning systems
+Design and build services and APIs to be leveraged by LLM agents
+Integrate disparate systems, using Python and similar technologies
+Build out technical infrastructure in Azure and other cloud services to meet the demands of a growing user base
+Design and deploy our services infrastructure with a fully automated CI/CD pipeline
+Build batch and streaming data pipelines for rapid processing of data at healthcare scale
+Take ownership over projects end to end, bringing them from vision to reality
+Minimum Qualifications
+BS degree in Computer Science, a related technical field, or equivalent experience
+
+4+ years of experience in back-end, infrastructure, or full-stack development
+Strong communication skills and the ability to prepare written material that communicates clearly and succinctly
+Development in Python, JavaScript, Java, or C++
+Experience designing, building, and maintaining web services and web applications from scratch
+Preferred Qualifications
+This is a technical leadership role that will give you the opportunity to establish a core part of our company's technology. You should have experience with some of the following:
+Server-side Python programming and web application frameworks
+
+Designing or leveraging APIs, especially for data access
+Structured data development using data representations in JSON
+Batch, stream, and offline processing to manage business state or perform ETL
+Relational databases like MySQL or PostgreSQL
+Application development on cloud providers like Azure, AWS, or GCP
+Docker, Kubernetes, and CI/CD platforms
+Proactive and reactive monitoring and log management for SaaS applications
+Generative AI and Prompt Engineering
+Startup and/or healthcare industry experience
+What we offer
+An opportunity to be at the forefront of the AI industry, driving impactful changes that benefit AI and LLM agentic platforms worldwide
+An opportunity to transform patient communication in healthcare at scale
+Competitive compensation and benefits package
+A collaborative and inclusive work environment
+Opportunities for growth, learning, and development
+Compensation range
+ActiumHealth is open to consideration of candidates at varying levels of experience and responsibility, subject to meeting the basic qualifications of the position. As such, the salary range for this position is $100,000-$200,000. The range of compensation for this role takes into account the variety of factors considered in making compensation decisions, including but not limited to pay band placement, skillset, experience and training, licensure and certification, geographic location, and other business and organizational needs. All compensation decisions are dependent on the facts and circumstances of each case.",,Remote,Senior (SDE III+)
+2025-10-08_LEARFIELD_SENIORSOFTWAREENGINEERI,2025-10-08,LEARFIELD,senior software engineer I,,https://www.indeed.com/jobs?q=software+engineer&latLong=33.60009%2C-117.58748&locString=Trabuco+Canyon%2C+CA%2C+92679&salaryType=%24115%2C000%2B&radius=25&sc=0kf%3Aattr%286XQ9P%7C84K74%7CEVPJU%7CFGY89%7CJB2WC%7CNGEEK%7CWD7PP%7CX62BT%7CXH9RQ%7CY7U37%252COR%29attr%28CF3CP%7CNJXCK%252COR%29occ%28EG6MP%29%3B&from=searchOnDesktopSerp&vjk=19409a61dde818aa,,"Paciolan is the leading live events platform that connects fans to sports, concerts, and theatrical events that they love. We are the trusted technology partner for College Athletics Power Five Conferences and world-famous venues in the arena and performing arts verticals. We revel in waking up every day to solve the industryʼs most complex problems with innovation that makes every live event memorable for over 120M people.
+
+Our checkout system provides fans with a delightful, frictionless purchase experience. From quickly securing the seats you want to having the NFC-enabled mobile passes in your wallet, every click, every interaction could affect the conversion rate. Your goal is to improve the purchase experience in order to increase the conversion rate. This is just one example of what you could be
+working on.
+
+Youʼll be partnering with Product to create solutions so our fans enjoy a seamless, delightful experience for both consumers of enterprise and e-commerce applications from designing and solving for setting up events intuitively and providing seamless experience for buying a ticket to attending an event. We move fast and ship code to production daily. So, we rely on you to make decisions that can have a massive impact on the outcome. Youʼll get to own the end-to-end development and operation of the systems under your teamʼs domain.
+What youʼll do
+
+Ship code to production in your first week
+Leverage our paved road to ship faster and apply it to your day-to-day work
+Collaborate with product, UI/UX, customer success, and fellow engineers to come up with solutions that meet the desired outcomes
+Contribute ideas, research solutions and write Request For Comments RFCs to gather feedback
+Decide how to implement a solution based on tradeoffs
+Master your domain and resolve incident responses independently
+Develop insight based on analytics and suggest improvements
+Mentor and help team members outgrow their current role
+What youʼll bring
+
+Experience leading architecture discussions and dive deep to solve challenging problems
+Experience building something youʼre proud of in your favorite language
+A deep desire to build something impactful and think like a founder
+The courage to live in the future, dream big, and learn from failures
+An insatiable curiosity to learn how things work and ask why
+A willingness to seek and give feedback and grow beyond your comfort zone
+Critical thinking to challenge the status quo
+On our paved road
+
+Java, Nodejs, React, React native, Next, Typescript, Terraform, Redis, Confluent Kafka, MKS, SNS, SQS, PinPoint, MySQL, AWS RDS, Cassandra, DynamoDB, ElasticSearch, OpenSearch, Kubernetes, Lambda, CloudFront, Cypress, k6, Gatling, nightwatch, Configuration Management (zookeeper)
+
+How we chill
+
+At Pac, we move at a fast pace but we are big believers in enjoying our environment and coworkers while at work. Your health is important to us. Join the running club or yoga class. Play ping-pong or basketball. Grab your espresso drink and go sit with your team in the breakroom. Step outside of our breakroom to go to restaurants, the gym, and the sand volleyball court. Life also happens outside of work. Some of us enjoy volunteering at our favorite charity organizations, coach our kids' soccer team, or less so run an errand close to home. Weʼre proud to embrace the new normal and offer a flexible hybrid work environment for us to live healthy, happy lives.
+
+Pay Transparency
+
+The approximate base pay range for this position is $125,000.00 to $145,000.00. Please note that the pay range provided is a good faith estimate for the position at the time of posting. Individuals may also be eligible for an annual discretionary bonus and/or sales compensation. Actual compensation may vary based on factors including but not limited to job-related knowledge, skills, and experience as well as geographic location.
+
+Learfield offers a full spectrum of benefits for eligible employees including Medical, Dental, Vision, Health Savings Account, Life Insurance and Other Insurance Plans, Flexible Paid Time Off (minimum 10+ days annually), including Parental Leave, 20 Paid Holidays, 401(k) + Match, and Short/Long Term Disability. Leave benefits are consistent with state and local laws, including the Colorado Health Families and Workplaces Act.
+
+Learfield is an Equal Opportunity Employer. We provide equal employment opportunities to applicants and employees without regard to race; color; sex; gender identity; sexual orientation; religious practices and observances; national origin; pregnancy, childbirth, or related medical conditions; status as a protected veteran or spouse/family member of a protected veteran; or disability.",,Hybrid,Senior (SDE III+)
+2025-10-08_NORDSTROM_DATAENGINEER2,2025-10-08,Nordstrom,Data Engineer 2 ,,https://www.dice.com/job-detail/d94e3f04-1d8c-4206-a882-043b97992194,,"Job Details
+Job Description
+
+The Insights Delivery Team delivers data and insights that enables Nordstrom data analysts, data scientists, leadership, store personnel and other business users to drive the critical Nordstrom customer experiences in a single place near real-time.
+
+In our team, you will own the design and development of highly scalable software applications, services, data pipelines and database solutions, apply scientific, mathematical and social principles, and deliver on the Nordstrom strategic visions. You will have various avenues to collaborate and influence several other platforms within Nordstrom Technology and have a companywide impact on both business and engineering. The ideal candidate is creative, customer-driven and has a passion for data engineering and products.
+
+Read this first: We encourage you to apply even if you do not meet all the qualifications but feel you would be a good fit for the position. Nordstrom is an equal-opportunity employer. We are building a diverse, inclusive workforce and hope you will join us!
+
+A day in the life...
+Design and develop scalable and durable data analytical solutions using in-house and modern technologies for business in an agile environment.
+Understand the specific needs of a major line of business and the related set of applications, systems, or functions.
+Understand architecture and able to design interaction between multiple modules.
+Design and develop distributed data processing pipelines in the Big Data ecosystem in the Cloud, apply data concept, modeling, structures, and infrastructure technologies and adhere to good engineering practices.
+Own responsibility for code reviews and drives accountability in following software engineering principles.
+Build testing tools and CI/CD pipeline, reduce automation friction to speed up the path to business outcomes.
+Identify data performance issues and optimize the solution.
+Influence quality standards, identify and measure across the entire solution
+Perform on-going production support and on-call support duties. Work with both Onsite and offshore resources daily to resolve any incidents and issues.
+Responsible for cost savings, production notifications, alerts, and logging dashboards.
+Collaborate with product managers, data analysts, data scientists, business partners and other tech teams.
+Partner with analyst stakeholders toward delivering highly effective self-service BI solutions.
+Communicate clearly and efficiently with our partner teams.
+
+You own this if you have...
+3+ years of experience in at least one modern programming language such as Java, Python
+3+ years of experience with databases, SQL, data modeling, data mining, and automated engineering solutions. Familiarity with Google Cloud Platform Big Query and Presto is a plus.
+Experience with cloud environments such as AWS, Google Cloud Platform.
+Experience in developing near real-time distributed data processing solutions using Kafka, Spark, Kubernetes, Airflow.
+Experience in scalable distributed systems, service-oriented and event-driven streaming architecture.
+Experience with best practices for data engineering and operational excellence.
+Bachelor's or Master's degree in Computer Science, Engineering, or equivalent practical experience.
+Passion for innovative technologies, operational excellence, and customer impact.
+
+#LI-EB1
+
+We've got you covered...
+
+Our employees are our most important asset and that's reflected in our benefits. Nordstrom is proud to offer a variety of benefits to support employees and their families, including:
+Medical/Vision, Dental, Retirement and Paid Time Away
+Life Insurance and Disability
+Merchandise Discount and EAP Resources
+
+A few more important points...
+
+The job posting highlights the most critical responsibilities and requirements of the job. It's not all-inclusive. There may be additional duties, responsibilities and qualifications for this job.
+
+Nordstrom conducts background checks and considers qualified applicants with criminal histories in a manner consistent with all legal requirements.
+
+Applicants with disabilities who require assistance or accommodation should contact the nearest Nordstrom location, which can be identified at
+
+Please be mindful that there may be legal notices and requirements related to this job posting that are specific to your state. Review the Career Site FAQ's for relevant information and guidelines.
+
+2022 Nordstrom, Inc
+
+Current Nordstrom employees: To apply, log into Workday, click the Careers button and then click Find Jobs.
+
+Pay Range Details
+
+The pay range(s) below has been provided in compliance with state specific laws. Pay ranges may be different for other locations.
+Pay offers are dependent on the location, as well as job-related knowledge, skills, and experience.
+$121,500.00 - $188,500.00 Annual",,Remote,Senior (SDE III+)
+2025-10-08_WAL-MARTCORPORATION_SOFTWAREENGINEERIII,2025-10-08,Wal-Mart Corporation,Software Engineer III ,,https://www.dice.com/job-detail/50ba5cd7-0cbc-406c-8c11-f7f247296b2d,,"Job Details
+Position Summary...
+
+What you'll do...
+
+Software Engineer (Backend) - Pricing
+
+Position Summary:
+Join Walmart's Pricing team as a Backend Software Engineer. You'll help design and develop scalable backend services and APIs that power next-generation pricing systems. This role emphasizes JVM development, integrating GenAI LLMs and machine learning, and leveraging technologies including Cassandra, Kafka, Apache Spark, and Google Cloud Platform. Your work will directly impact millions of Walmart customers and associates by ensuring competitive, accurate, and timely prices across our online and store channels.
+
+Key Responsibilities:
+Develop and maintain backend services and APIs for pricing systems using Java and Python (Kotlin experience is a plus)
+Integrate GenAI LLMs and machine learning models into production systems
+Leverage distributed technologies such as Cassandra for data storage, Kafka for real-time data streaming, and Apache Spark for large-scale data processing
+Develop big data processing ETLs utilizing Spark and Airflow
+Implement monitoring and dashboarding with Grafana to ensure system observability and reliability
+Collaborate with data scientists, ML engineers, and product teams to deliver robust pricing solutions
+Participate in code reviews and contribute to backend best practices
+Troubleshoot, debug, and optimize pricing services and pipelines
+
+Qualifications:
+Bachelor's degree in Computer Science or related field, or equivalent experience
+2+ years of backend development experience
+Proficiency in Java; experience with Kotlin is a plus, Python preferred
+Experience with Cassandra (or similar distributed NoSQL databases)
+Experience with Kafka (or similar messaging/streaming platforms)
+Hands-on experience with Apache Spark and Airflow for big data processing
+Experience with monitoring tools such as Grafana
+Experience with cloud platforms, especially Google Cloud Platform (Google Cloud Platform) About Walmart Global Tech Imagine working in an environment where one line of code can make life easier for hundreds of millions of people. That's what we do at Walmart Global Tech. Were a team of software engineers, data scientists, cybersecurity experts and service professionals within the worlds leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail. Flexible, hybrid work: We use a hybrid way of working that is primarily in office coupled with virtual when not onsite. Our campuses serve as a hub to enhance collaboration, bring us together for purpose and deliver on business needs. This approach helps us make quicker decisions, remove location barriers across our global team and be more flexible in our personal lives. Benefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.
+Equal Opportunity Employer: Walmart, Inc. is an Equal Opportunity Employer By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing unique styles, experiences, identities, ideas and opinions while being welcoming of all people.
+
+At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.
+
+You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.
+
+For information about PTO, see ;br>
+Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.
+
+Eligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.
+
+For information about benefits and eligibility, see One.Walmart.
+
+The annual salary range for this position is $90,000.00-$180,000.00
+
+Additional compensation includes annual or quarterly performance bonuses.
+
+Additional compensation for certain positions may also include:
+
+- Stock
+
+Minimum Qualifications...
+
+Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.
+
+Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years' experience in software engineering or related area.
+Option 2: 4 years' experience in software engineering or related area., Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years' experience in software engineering or related area.
+Option 2: 4 years' experience in software engineering or related area.
+
+Preferred Qualifications...
+
+Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.
+
+Master's degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area, We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart's accessibility standards and guidelines for supporting an inclusive culture.
+
+Masters: Computer Science",,Remote,Senior (SDE III+)

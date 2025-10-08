@@ -3415,5 +3415,2107 @@
     "synonyms": [],
     "confidence": 0.0,
     "reason": "Parse failure"
+  },
+  "ads": {
+    "term": "Ads",
+    "canonical_name": "Ads",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "advertising": {
+    "term": "Advertising",
+    "canonical_name": "Advertising",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "css": {
+    "term": "CSS",
+    "canonical_name": "Cascading Style Sheets",
+    "category": "Frontend Framework",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "CSS is a widely recognized technology used for styling web pages."
+  },
+  "google ads": {
+    "term": "Google Ads",
+    "canonical_name": "Google Ads",
+    "category": "Cloud Service",
+    "vendor": "Google",
+    "synonyms": [
+      "Ads",
+      "Advertising"
+    ],
+    "confidence": 1.0,
+    "reason": "Google Ads is a well-known advertising service provided by Google."
+  },
+  "google. we": {
+    "term": "Google. We",
+    "canonical_name": "Google. We",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "html": {
+    "term": "HTML",
+    "canonical_name": "HyperText Markup Language",
+    "category": "Frontend Framework",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "HTML is a standard markup language for creating web pages."
+  },
+  "irvine": {
+    "term": "Irvine",
+    "canonical_name": "Irvine",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Irvine is a location, not a technology or tool."
+  },
+  "job\n\ngoogle": {
+    "term": "Job\n\nGoogle",
+    "canonical_name": "Job\n\nGoogle",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "learn": {
+    "term": "Learn",
+    "canonical_name": "Learn",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "mountain": {
+    "term": "Mountain",
+    "canonical_name": "Mountain",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "mountain view": {
+    "term": "Mountain View",
+    "canonical_name": "Mountain View",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "note": {
+    "term": "Note",
+    "canonical_name": "Note",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "phd": {
+    "term": "PhD",
+    "canonical_name": "Doctor of Philosophy",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "PhD is an academic degree, not a technology or tool."
+  },
+  "phd in computer": {
+    "term": "PhD in Computer",
+    "canonical_name": "PhD in Computer",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "please": {
+    "term": "Please",
+    "canonical_name": "Please",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "responsibilities\n\nwrite": {
+    "term": "Responsibilities\n\nWrite",
+    "canonical_name": "Responsibilities\n\nWrite",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "usa": {
+    "term": "USA",
+    "canonical_name": "United States of America",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "USA is a country, not a technology or tool."
+  },
+  "usa.minimum": {
+    "term": "USA.Minimum",
+    "canonical_name": "USA.Minimum",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "view": {
+    "term": "View",
+    "canonical_name": "View",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "your": {
+    "term": "Your",
+    "canonical_name": "Your",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "youtube": {
+    "term": "YouTube",
+    "canonical_name": "YouTube",
+    "category": "Cloud Service",
+    "vendor": "Google",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "YouTube is a video sharing service owned by Google."
+  },
+  "agents": {
+    "term": "Agents",
+    "canonical_name": "Agents",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "ai agents": {
+    "term": "AI Agents",
+    "canonical_name": "AI Agents",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "ai and llm": {
+    "term": "AI and LLM",
+    "canonical_name": "AI and LLM",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "ai.\nkey": {
+    "term": "AI.\nKey",
+    "canonical_name": "AI.\nKey",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "batch": {
+    "term": "Batch",
+    "canonical_name": "Batch",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "c++\nexperience": {
+    "term": "C++\nExperience",
+    "canonical_name": "C++\nExperience",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "design": {
+    "term": "Design",
+    "canonical_name": "Design",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "designing": {
+    "term": "Designing",
+    "canonical_name": "Designing",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "development in python": {
+    "term": "Development in Python",
+    "canonical_name": "Development in Python",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "etl": {
+    "term": "ETL",
+    "canonical_name": "ETL",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "etl\nrelational": {
+    "term": "ETL\nRelational",
+    "canonical_name": "ETL\nRelational",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "evaluate": {
+    "term": "Evaluate",
+    "canonical_name": "Evaluate",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "gcp\ndocker": {
+    "term": "GCP\nDocker",
+    "canonical_name": "GCP\nDocker",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "generative": {
+    "term": "Generative",
+    "canonical_name": "Generative",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "generative ai": {
+    "term": "Generative AI",
+    "canonical_name": "Generative AI",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "houston": {
+    "term": "Houston",
+    "canonical_name": "Houston",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "houston methodist": {
+    "term": "Houston Methodist",
+    "canonical_name": "Houston Methodist",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "integrate": {
+    "term": "Integrate",
+    "canonical_name": "Integrate",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "json": {
+    "term": "JSON",
+    "canonical_name": "JSON",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "json\nbatch": {
+    "term": "JSON\nBatch",
+    "canonical_name": "JSON\nBatch",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "key": {
+    "term": "Key",
+    "canonical_name": "Key",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "llm": {
+    "term": "LLM",
+    "canonical_name": "LLM",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "llms": {
+    "term": "LLMs",
+    "canonical_name": "LLMs",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "llms\ndesign": {
+    "term": "LLMs\nDesign",
+    "canonical_name": "LLMs\nDesign",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "memorialcare": {
+    "term": "MemorialCare",
+    "canonical_name": "MemorialCare",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "methodist": {
+    "term": "Methodist",
+    "canonical_name": "Methodist",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "platform. you": {
+    "term": "Platform. You",
+    "canonical_name": "Platform. You",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "position": {
+    "term": "Position",
+    "canonical_name": "Position",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "position overview": {
+    "term": "Position Overview",
+    "canonical_name": "Position Overview",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "postgresql\napplication": {
+    "term": "PostgreSQL\nApplication",
+    "canonical_name": "PostgreSQL\nApplication",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "proactive": {
+    "term": "Proactive",
+    "canonical_name": "Proactive",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "prompt": {
+    "term": "Prompt",
+    "canonical_name": "Prompt",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "prompt engineering": {
+    "term": "Prompt Engineering",
+    "canonical_name": "Prompt Engineering",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "responsibilities\ndevelop": {
+    "term": "Responsibilities\nDevelop",
+    "canonical_name": "Responsibilities\nDevelop",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "saas": {
+    "term": "SaaS",
+    "canonical_name": "SaaS",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "server-side": {
+    "term": "Server-side",
+    "canonical_name": "Server-side",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "server-side python": {
+    "term": "Server-side Python",
+    "canonical_name": "Server-side Python",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "staff software": {
+    "term": "Staff Software",
+    "canonical_name": "Staff Software",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "startup": {
+    "term": "Startup",
+    "canonical_name": "Startup",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "structured": {
+    "term": "Structured",
+    "canonical_name": "Structured",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "virtua": {
+    "term": "Virtua",
+    "canonical_name": "Virtua",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "account": {
+    "term": "Account",
+    "canonical_name": "Account",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "act.\n\nlearfield": {
+    "term": "Act.\n\nLearfield",
+    "canonical_name": "Act.\n\nLearfield",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "at pac": {
+    "term": "At Pac",
+    "canonical_name": "At Pac",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "aws rds": {
+    "term": "AWS RDS",
+    "canonical_name": "Amazon RDS",
+    "category": "Cloud Service",
+    "vendor": "Amazon",
+    "synonyms": [
+      "Amazon RDS"
+    ],
+    "confidence": 1.0,
+    "reason": "AWS RDS is a managed relational database service provided by Amazon."
+  },
+  "cassandra": {
+    "term": "Cassandra",
+    "canonical_name": "Apache Cassandra",
+    "category": "Database",
+    "vendor": "Apache",
+    "synonyms": [
+      "Cassandra"
+    ],
+    "confidence": 1.0,
+    "reason": "Cassandra is a distributed NoSQL database management system."
+  },
+  "cloudfront": {
+    "term": "CloudFront",
+    "canonical_name": "Amazon CloudFront",
+    "category": "Cloud Service",
+    "vendor": "Amazon",
+    "synonyms": [
+      "Amazon CloudFront"
+    ],
+    "confidence": 1.0,
+    "reason": "CloudFront is a content delivery network (CDN) service by Amazon."
+  },
+  "colorado": {
+    "term": "Colorado",
+    "canonical_name": "Colorado",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "colorado health": {
+    "term": "Colorado Health",
+    "canonical_name": "Colorado Health",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "comments": {
+    "term": "Comments",
+    "canonical_name": "Comments",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "comments rfcs": {
+    "term": "Comments RFCs",
+    "canonical_name": "Comments RFCs",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "configuration": {
+    "term": "Configuration",
+    "canonical_name": "Configuration",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "configuration management": {
+    "term": "Configuration Management",
+    "canonical_name": "Configuration Management",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "confluent": {
+    "term": "Confluent",
+    "canonical_name": "Confluent",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "confluent kafka": {
+    "term": "Confluent Kafka",
+    "canonical_name": "Confluent Kafka",
+    "category": "Messaging",
+    "vendor": "Confluent",
+    "synonyms": [
+      "Kafka"
+    ],
+    "confidence": 1.0,
+    "reason": "Confluent Kafka is a platform for data in motion based on Apache Kafka."
+  },
+  "critical": {
+    "term": "Critical",
+    "canonical_name": "Critical",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "cypress": {
+    "term": "Cypress",
+    "canonical_name": "Cypress",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [
+      "Cypress.io"
+    ],
+    "confidence": 1.0,
+    "reason": "Cypress is a JavaScript end-to-end testing framework."
+  },
+  "decide": {
+    "term": "Decide",
+    "canonical_name": "Decide",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "dental": {
+    "term": "Dental",
+    "canonical_name": "Dental",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "disability": {
+    "term": "Disability",
+    "canonical_name": "Disability",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "disability. leave": {
+    "term": "Disability. Leave",
+    "canonical_name": "Disability. Leave",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "dynamodb": {
+    "term": "DynamoDB",
+    "canonical_name": "Amazon DynamoDB",
+    "category": "Database",
+    "vendor": "Amazon",
+    "synonyms": [
+      "DynamoDB"
+    ],
+    "confidence": 1.0,
+    "reason": "DynamoDB is a fully managed NoSQL database service by Amazon."
+  },
+  "elasticsearch": {
+    "term": "ElasticSearch",
+    "canonical_name": "Elasticsearch",
+    "category": "Search/Analytics",
+    "vendor": "Elastic",
+    "synonyms": [
+      "Elasticsearch"
+    ],
+    "confidence": 1.0,
+    "reason": "Elasticsearch is a distributed, RESTful search and analytics engine."
+  },
+  "employer": {
+    "term": "Employer",
+    "canonical_name": "Employer",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "employer. we": {
+    "term": "Employer. We",
+    "canonical_name": "Employer. We",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "equal": {
+    "term": "Equal",
+    "canonical_name": "Equal",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "equal opportunity": {
+    "term": "Equal Opportunity",
+    "canonical_name": "Equal Opportunity",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "families": {
+    "term": "Families",
+    "canonical_name": "Families",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "families and workplaces": {
+    "term": "Families and Workplaces",
+    "canonical_name": "Families and Workplaces",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "flexible paid": {
+    "term": "Flexible Paid",
+    "canonical_name": "Flexible Paid",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "gatling": {
+    "term": "Gatling",
+    "canonical_name": "Gatling",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [
+      "Gatling.io"
+    ],
+    "confidence": 1.0,
+    "reason": "Gatling is an open-source load testing framework."
+  },
+  "health savings": {
+    "term": "Health Savings",
+    "canonical_name": "Health Savings",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "holidays": {
+    "term": "Holidays",
+    "canonical_name": "Holidays",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "how": {
+    "term": "How",
+    "canonical_name": "How",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "insurance": {
+    "term": "Insurance",
+    "canonical_name": "Insurance",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "join": {
+    "term": "Join",
+    "canonical_name": "Join",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "lambda": {
+    "term": "Lambda",
+    "canonical_name": "AWS Lambda",
+    "category": "Cloud Service",
+    "vendor": "Amazon",
+    "synonyms": [
+      "AWS Lambda"
+    ],
+    "confidence": 1.0,
+    "reason": "AWS Lambda is a serverless compute service by Amazon."
+  },
+  "leave": {
+    "term": "Leave",
+    "canonical_name": "Leave",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "life insurance": {
+    "term": "Life Insurance",
+    "canonical_name": "Life Insurance",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "long": {
+    "term": "Long",
+    "canonical_name": "Long",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "long term": {
+    "term": "Long Term",
+    "canonical_name": "Long Term",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "management": {
+    "term": "Management",
+    "canonical_name": "Management",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "match": {
+    "term": "Match",
+    "canonical_name": "Match",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "medical": {
+    "term": "Medical",
+    "canonical_name": "Medical",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "mentor": {
+    "term": "Mentor",
+    "canonical_name": "Mentor",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "mks": {
+    "term": "MKS",
+    "canonical_name": "MKS",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "MKS is ambiguous and does not clearly refer to a specific technology."
+  },
+  "next": {
+    "term": "Next",
+    "canonical_name": "Next.js",
+    "category": "Frontend Framework",
+    "vendor": "Vercel",
+    "synonyms": [
+      "Next.js"
+    ],
+    "confidence": 1.0,
+    "reason": "Next.js is a React framework for server-rendered applications."
+  },
+  "off": {
+    "term": "Off",
+    "canonical_name": "Off",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "opensearch": {
+    "term": "OpenSearch",
+    "canonical_name": "OpenSearch",
+    "category": "Search/Analytics",
+    "vendor": "Amazon",
+    "synonyms": [
+      "OpenSearch"
+    ],
+    "confidence": 1.0,
+    "reason": "OpenSearch is a community-driven, open-source search and analytics suite."
+  },
+  "opportunity": {
+    "term": "Opportunity",
+    "canonical_name": "Opportunity",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "other insurance": {
+    "term": "Other Insurance",
+    "canonical_name": "Other Insurance",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "paid": {
+    "term": "Paid",
+    "canonical_name": "Paid",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "paid holidays": {
+    "term": "Paid Holidays",
+    "canonical_name": "Paid Holidays",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "parental": {
+    "term": "Parental",
+    "canonical_name": "Parental",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "parental leave": {
+    "term": "Parental Leave",
+    "canonical_name": "Parental Leave",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "pinpoint": {
+    "term": "PinPoint",
+    "canonical_name": "Amazon Pinpoint",
+    "category": "Cloud Service",
+    "vendor": "Amazon",
+    "synonyms": [
+      "Amazon Pinpoint"
+    ],
+    "confidence": 1.0,
+    "reason": "Amazon Pinpoint is a marketing communication service."
+  },
+  "plans": {
+    "term": "Plans",
+    "canonical_name": "Plans",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "play": {
+    "term": "Play",
+    "canonical_name": "Play",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "rds": {
+    "term": "RDS",
+    "canonical_name": "RDS",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "request": {
+    "term": "Request",
+    "canonical_name": "Request",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "request for": {
+    "term": "Request For",
+    "canonical_name": "Request For",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "rfcs": {
+    "term": "RFCs",
+    "canonical_name": "RFCs",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "savings": {
+    "term": "Savings",
+    "canonical_name": "Savings",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "ship": {
+    "term": "Ship",
+    "canonical_name": "Ship",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "short": {
+    "term": "Short",
+    "canonical_name": "Short",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "some": {
+    "term": "Some",
+    "canonical_name": "Some",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "term": {
+    "term": "Term",
+    "canonical_name": "Term",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "terraform": {
+    "term": "Terraform",
+    "canonical_name": "Terraform",
+    "category": "IaC",
+    "vendor": "HashiCorp",
+    "synonyms": [
+      "Terraform"
+    ],
+    "confidence": 1.0,
+    "reason": "Terraform is an open-source infrastructure as code software tool."
+  },
+  "time off": {
+    "term": "Time Off",
+    "canonical_name": "Time Off",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "vision": {
+    "term": "Vision",
+    "canonical_name": "Vision",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "workplaces": {
+    "term": "Workplaces",
+    "canonical_name": "Workplaces",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "airflow": {
+    "term": "Airflow",
+    "canonical_name": "Apache Airflow",
+    "category": "Workflow",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Apache Airflow is a platform to programmatically author, schedule, and monitor workflows."
+  },
+  "airflow.\nexperience": {
+    "term": "Airflow.\nExperience",
+    "canonical_name": "Airflow.\nExperience",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "annual": {
+    "term": "Annual",
+    "canonical_name": "Annual",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "big": {
+    "term": "Big",
+    "canonical_name": "Big",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "big data": {
+    "term": "Big Data",
+    "canonical_name": "Big Data",
+    "category": "Big Data/Analytics",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Big Data refers to data sets that are so large or complex that traditional data processing applications are inadequate."
+  },
+  "big query": {
+    "term": "Big Query",
+    "canonical_name": "Google BigQuery",
+    "category": "Data Warehouse",
+    "vendor": "Google",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Google BigQuery is a fully-managed, serverless data warehouse that enables scalable analysis over petabytes of data."
+  },
+  "career site": {
+    "term": "Career Site",
+    "canonical_name": "Career Site",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "careers": {
+    "term": "Careers",
+    "canonical_name": "Careers",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "cloud platform": {
+    "term": "Cloud Platform",
+    "canonical_name": "Cloud Platform",
+    "category": "Cloud Platform",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.8,
+    "reason": "Cloud Platform generally refers to a suite of cloud computing services that provide infrastructure, platform, or software services."
+  },
+  "current": {
+    "term": "Current",
+    "canonical_name": "Current",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "delivery": {
+    "term": "Delivery",
+    "canonical_name": "Delivery",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "delivery team": {
+    "term": "Delivery Team",
+    "canonical_name": "Delivery Team",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "details\n\nthe": {
+    "term": "Details\n\nThe",
+    "canonical_name": "Details\n\nThe",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "familiarity with google": {
+    "term": "Familiarity with Google",
+    "canonical_name": "Familiarity with Google",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "faq": {
+    "term": "FAQ",
+    "canonical_name": "FAQ",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "find": {
+    "term": "Find",
+    "canonical_name": "Find",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "find jobs": {
+    "term": "Find Jobs",
+    "canonical_name": "Find Jobs",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "inc": {
+    "term": "Inc",
+    "canonical_name": "Inc",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "inc\n\ncurrent": {
+    "term": "Inc\n\nCurrent",
+    "canonical_name": "Inc\n\nCurrent",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "influence": {
+    "term": "Influence",
+    "canonical_name": "Influence",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "insights": {
+    "term": "Insights",
+    "canonical_name": "Insights",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "jobs": {
+    "term": "Jobs",
+    "canonical_name": "Jobs",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "li-eb1": {
+    "term": "LI-EB1",
+    "canonical_name": "LI-EB1",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "li-eb1\n\nwe": {
+    "term": "LI-EB1\n\nWe",
+    "canonical_name": "LI-EB1\n\nWe",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "life": {
+    "term": "Life",
+    "canonical_name": "Life",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "nordstrom": {
+    "term": "Nordstrom",
+    "canonical_name": "Nordstrom",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "nordstrom technology": {
+    "term": "Nordstrom Technology",
+    "canonical_name": "Nordstrom Technology",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "onsite": {
+    "term": "Onsite",
+    "canonical_name": "Onsite",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "passion": {
+    "term": "Passion",
+    "canonical_name": "Passion",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "pay range": {
+    "term": "Pay Range",
+    "canonical_name": "Pay Range",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "perform": {
+    "term": "Perform",
+    "canonical_name": "Perform",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "platform.\nexperience": {
+    "term": "Platform.\nExperience",
+    "canonical_name": "Platform.\nExperience",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "presto": {
+    "term": "Presto",
+    "canonical_name": "Presto",
+    "category": "Big Data/Analytics",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Presto is an open-source distributed SQL query engine for running interactive analytic queries against data sources of all sizes."
+  },
+  "query": {
+    "term": "Query",
+    "canonical_name": "Query",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "read": {
+    "term": "Read",
+    "canonical_name": "Read",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "site": {
+    "term": "Site",
+    "canonical_name": "Site",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "spark": {
+    "term": "Spark",
+    "canonical_name": "Apache Spark",
+    "category": "Big Data/Analytics",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Apache Spark is an open-source unified analytics engine for large-scale data processing, with built-in modules for streaming, SQL, machine learning, and graph processing."
+  },
+  "technology": {
+    "term": "Technology",
+    "canonical_name": "Technology",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "the insights": {
+    "term": "The Insights",
+    "canonical_name": "The Insights",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "understand": {
+    "term": "Understand",
+    "canonical_name": "Understand",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "workday": {
+    "term": "Workday",
+    "canonical_name": "Workday",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "about walmart": {
+    "term": "About Walmart",
+    "canonical_name": "About Walmart",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "accessibility": {
+    "term": "Accessibility",
+    "canonical_name": "Accessibility",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "accessibility guidelines": {
+    "term": "Accessibility Guidelines",
+    "canonical_name": "Accessibility Guidelines",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "apache": {
+    "term": "Apache",
+    "canonical_name": "Apache",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.8,
+    "reason": "Apache is a well-known software foundation that provides various open-source software projects."
+  },
+  "at walmart": {
+    "term": "At Walmart",
+    "canonical_name": "At Walmart",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "backend software": {
+    "term": "Backend Software",
+    "canonical_name": "Backend Software",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "club": {
+    "term": "Club",
+    "canonical_name": "Club",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "content": {
+    "term": "Content",
+    "canonical_name": "Content",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "details": {
+    "term": "Details",
+    "canonical_name": "Details",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "engineer. you": {
+    "term": "Engineer. You",
+    "canonical_name": "Engineer. You",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "english language": {
+    "term": "English Language",
+    "canonical_name": "English Language",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "etls": {
+    "term": "ETLs",
+    "canonical_name": "ETLs",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "experience with cassandra": {
+    "term": "Experience with Cassandra",
+    "canonical_name": "Experience with Cassandra",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "experience with kafka": {
+    "term": "Experience with Kafka",
+    "canonical_name": "Experience with Kafka",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "genai": {
+    "term": "GenAI",
+    "canonical_name": "Generative AI",
+    "category": "ML/AI",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.7,
+    "reason": "GenAI refers to generative artificial intelligence technologies."
+  },
+  "genai llms": {
+    "term": "GenAI LLMs",
+    "canonical_name": "GenAI LLMs",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "global": {
+    "term": "Global",
+    "canonical_name": "Global",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "global tech": {
+    "term": "Global Tech",
+    "canonical_name": "Global Tech",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "grafana": {
+    "term": "Grafana",
+    "canonical_name": "Grafana",
+    "category": "Observability",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Grafana is an open-source platform for monitoring and observability."
+  },
+  "grafana\nexperience": {
+    "term": "Grafana\nExperience",
+    "canonical_name": "Grafana\nExperience",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "guidelines": {
+    "term": "Guidelines",
+    "canonical_name": "Guidelines",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "hands-on": {
+    "term": "Hands-on",
+    "canonical_name": "Hands-on",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "here": {
+    "term": "Here",
+    "canonical_name": "Here",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "imagine": {
+    "term": "Imagine",
+    "canonical_name": "Imagine",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "integrate genai": {
+    "term": "Integrate GenAI",
+    "canonical_name": "Integrate GenAI",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "java and python": {
+    "term": "Java and Python",
+    "canonical_name": "Java, Python",
+    "category": "Programming Language",
+    "vendor": null,
+    "synonyms": [
+      "Java",
+      "Python"
+    ],
+    "confidence": 1.0,
+    "reason": "Java and Python are widely used programming languages."
+  },
+  "job details": {
+    "term": "Job Details",
+    "canonical_name": "Job Details",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "join walmart": {
+    "term": "Join Walmart",
+    "canonical_name": "Join Walmart",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "jvm": {
+    "term": "JVM",
+    "canonical_name": "Java Virtual Machine",
+    "category": "Runtime/Framework",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.9,
+    "reason": "JVM is an engine that provides a runtime environment to drive Java applications."
+  },
+  "key responsibilities": {
+    "term": "Key Responsibilities",
+    "canonical_name": "Key Responsibilities",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "language": {
+    "term": "Language",
+    "canonical_name": "Language",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "learning": {
+    "term": "Learning",
+    "canonical_name": "Learning",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "leverage": {
+    "term": "Leverage",
+    "canonical_name": "Leverage",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "live": {
+    "term": "Live",
+    "canonical_name": "Live",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "masters": {
+    "term": "Masters",
+    "canonical_name": "Masters",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "people": {
+    "term": "People",
+    "canonical_name": "People",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "platform. your": {
+    "term": "Platform. Your",
+    "canonical_name": "Platform. Your",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "position summary": {
+    "term": "Position Summary",
+    "canonical_name": "Position Summary",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "ppto": {
+    "term": "PPTO",
+    "canonical_name": "PPTO",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "pricing": {
+    "term": "Pricing",
+    "canonical_name": "Pricing",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "pricing\n\nposition": {
+    "term": "Pricing\n\nPosition",
+    "canonical_name": "Pricing\n\nPosition",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "proficiency in java": {
+    "term": "Proficiency in Java",
+    "canonical_name": "Proficiency in Java",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "programs": {
+    "term": "Programs",
+    "canonical_name": "Programs",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "sam": {
+    "term": "Sam",
+    "canonical_name": "Sam",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "spark and airflow": {
+    "term": "Spark and Airflow",
+    "canonical_name": "Spark and Airflow",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "summary": {
+    "term": "Summary",
+    "canonical_name": "Summary",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "tech": {
+    "term": "Tech",
+    "canonical_name": "Tech",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "tech. were": {
+    "term": "Tech. Were",
+    "canonical_name": "Tech. Were",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "troubleshoot": {
+    "term": "Troubleshoot",
+    "canonical_name": "Troubleshoot",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "walmart": {
+    "term": "Walmart",
+    "canonical_name": "Walmart",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "walmart and sam": {
+    "term": "Walmart and Sam",
+    "canonical_name": "Walmart and Sam",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "walmart global": {
+    "term": "Walmart Global",
+    "canonical_name": "Walmart Global",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "walmart-paid": {
+    "term": "Walmart-paid",
+    "canonical_name": "Walmart-paid",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "wcag": {
+    "term": "WCAG",
+    "canonical_name": "WCAG",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "web": {
+    "term": "Web",
+    "canonical_name": "Web",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "web content": {
+    "term": "Web Content",
+    "canonical_name": "Web Content",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "were": {
+    "term": "Were",
+    "canonical_name": "Were",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
   }
 }

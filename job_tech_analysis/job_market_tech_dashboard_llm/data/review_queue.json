@@ -68,5 +68,16 @@
       "reason": "TDD is a software development process that relies on the repetition of a very short development cycle."
     },
     "status": "accepted"
+  },
+  {
+    "term": "GenAI",
+    "suggested": {
+      "canonical_name": "Generative AI",
+      "category": "ML/AI",
+      "confidence": 0.7,
+      "synonyms": [],
+      "reason": "GenAI refers to generative artificial intelligence technologies."
+    },
+    "status": "pending"
   }
 ]

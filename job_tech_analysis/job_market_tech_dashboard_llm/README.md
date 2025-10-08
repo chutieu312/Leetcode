@@ -5,17 +5,21 @@
 
 ## Run
 ```bash
-source .venv/Scripts/activate
-pip install -r requirements.txt
-streamlit run streamlit_app.py
+- For the first time: bash setup_env.sh then bash run_app.sh
+- Second time and so on: bash run_app.sh
 
 
-cd job_market_tech_dashboard_llm
-python -m venv .venv
-.venv\Scripts\Activate
-python -m pip install --upgrade pip
-pip install -r requirements.txt
-streamlit run streamlit_app.py
+# source .venv/Scripts/activate
+# pip install -r requirements.txt
+# streamlit run streamlit_app.py
+
+
+# cd job_market_tech_dashboard_llm
+# python -m venv .venv
+# .venv\Scripts\Activate
+# python -m pip install --upgrade pip
+# pip install -r requirements.txt
+# streamlit run streamlit_app.py
 ```
 
 ## Configure the LLM

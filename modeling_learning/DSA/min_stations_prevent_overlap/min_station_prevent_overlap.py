@@ -28,3 +28,4 @@ def _test():
     
     
 _test()
+                                  # total subarrays summing to k

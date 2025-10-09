@@ -108,5 +108,17 @@
   "Apache": "Other",
   "Grafana": "Observability",
   "Java, Python": "Programming Language",
-  "Java Virtual Machine": "Runtime/Framework"
+  "Java Virtual Machine": "Runtime/Framework",
+  "Alexa": "Other",
+  "Advanced Linux Sound Architecture": "Other",
+  "Android": "Operating System",
+  "Yocto Project": "Other",
+  "Go": "Programming Language",
+  "Video Platform": "Other",
+  "Angular": "Frontend Framework",
+  "Artificial Intelligence": "ML/AI",
+  "Azure Portal": "Cloud Service",
+  "Knockout.js": "Frontend Framework",
+  "Generative AI": "ML/AI",
+  "Audio Frameworks": "Other"
 }

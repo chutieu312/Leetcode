@@ -118,5 +118,18 @@
   "apache": "Apache",
   "grafana": "Grafana",
   "java and python": "Java, Python",
-  "jvm": "Java Virtual Machine"
+  "jvm": "Java Virtual Machine",
+  "alexa": "Alexa",
+  "alsa": "Advanced Linux Sound Architecture",
+  "android": "Android",
+  "yocto": "Yocto Project",
+  "golang": "Go",
+  "video platform": "Video Platform",
+  "angular": "Angular",
+  "artificial intelligence": "Artificial Intelligence",
+  "azure portal": "Azure Portal",
+  "knockout": "Knockout.js",
+  "react javascript": "React",
+  "genai": "Generative AI",
+  "audio frameworks": "Audio Frameworks"
 }

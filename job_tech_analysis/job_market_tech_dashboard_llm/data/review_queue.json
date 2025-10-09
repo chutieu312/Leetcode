@@ -78,6 +78,17 @@
       "synonyms": [],
       "reason": "GenAI refers to generative artificial intelligence technologies."
     },
-    "status": "pending"
+    "status": "accepted"
+  },
+  {
+    "term": "Audio Frameworks",
+    "suggested": {
+      "canonical_name": "Audio Frameworks",
+      "category": "Other",
+      "confidence": 0.7,
+      "synonyms": [],
+      "reason": "Refers to frameworks used for audio processing and management."
+    },
+    "status": "accepted"
   }
 ]

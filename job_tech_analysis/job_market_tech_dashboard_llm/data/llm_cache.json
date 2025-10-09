@@ -5517,5 +5517,1048 @@
     "synonyms": [],
     "confidence": 0.0,
     "reason": "Parse failure"
+  },
+  "abstraction": {
+    "term": "Abstraction",
+    "canonical_name": "Abstraction",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "alexa": {
+    "term": "Alexa",
+    "canonical_name": "Alexa",
+    "category": "Other",
+    "vendor": "Amazon",
+    "synonyms": [],
+    "confidence": 0.9,
+    "reason": "Voice assistant technology developed by Amazon."
+  },
+  "alsa": {
+    "term": "ALSA",
+    "canonical_name": "Advanced Linux Sound Architecture",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [
+      "ALSA"
+    ],
+    "confidence": 0.8,
+    "reason": "A software framework and part of the Linux kernel that provides an application programming interface for sound card device drivers."
+  },
+  "amazon": {
+    "term": "Amazon",
+    "canonical_name": "Amazon",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "android": {
+    "term": "Android",
+    "canonical_name": "Android",
+    "category": "Operating System",
+    "vendor": "Google",
+    "synonyms": [],
+    "confidence": 0.9,
+    "reason": "A mobile operating system developed by Google."
+  },
+  "architecture": {
+    "term": "Architecture",
+    "canonical_name": "Architecture",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "audio": {
+    "term": "Audio",
+    "canonical_name": "Audio",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "audio frameworks": {
+    "term": "Audio Frameworks",
+    "canonical_name": "Audio Frameworks",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.7,
+    "reason": "Refers to frameworks used for audio processing and management."
+  },
+  "basic qualifications": {
+    "term": "Basic Qualifications",
+    "canonical_name": "Basic Qualifications",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "best": {
+    "term": "Best",
+    "canonical_name": "Best",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "best practices": {
+    "term": "Best Practices",
+    "canonical_name": "Best Practices",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "break": {
+    "term": "Break",
+    "canonical_name": "Break",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "collaboration": {
+    "term": "Collaboration",
+    "canonical_name": "Collaboration",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "communication": {
+    "term": "Communication",
+    "canonical_name": "Communication",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "core": {
+    "term": "Core",
+    "canonical_name": "Core",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "core development": {
+    "term": "Core Development",
+    "canonical_name": "Core Development",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "cpu": {
+    "term": "CPU",
+    "canonical_name": "Central Processing Unit",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "General term for a hardware component."
+  },
+  "criminal": {
+    "term": "Criminal",
+    "canonical_name": "Criminal",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "description\necho": {
+    "term": "Description\nEcho",
+    "canonical_name": "Description\nEcho",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "echo": {
+    "term": "Echo",
+    "canonical_name": "Echo",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "experience with yocto": {
+    "term": "Experience with Yocto",
+    "canonical_name": "Experience with Yocto",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "features": {
+    "term": "Features",
+    "canonical_name": "Features",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "follow": {
+    "term": "Follow",
+    "canonical_name": "Follow",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "frameworks": {
+    "term": "Frameworks",
+    "canonical_name": "Frameworks",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "gen": {
+    "term": "Gen",
+    "canonical_name": "Gen",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "gen ai": {
+    "term": "Gen AI",
+    "canonical_name": "Gen AI",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "hal": {
+    "term": "HAL",
+    "canonical_name": "HAL",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "hardware": {
+    "term": "Hardware",
+    "canonical_name": "Hardware",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "hardware abstraction": {
+    "term": "Hardware Abstraction",
+    "canonical_name": "Hardware Abstraction",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "innovate": {
+    "term": "Innovate",
+    "canonical_name": "Innovate",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "innovation": {
+    "term": "Innovation",
+    "canonical_name": "Innovation",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "investigate": {
+    "term": "Investigate",
+    "canonical_name": "Investigate",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "layer": {
+    "term": "Layer",
+    "canonical_name": "Layer",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "leadership": {
+    "term": "Leadership",
+    "canonical_name": "Leadership",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "mixer": {
+    "term": "Mixer",
+    "canonical_name": "Mixer",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "practices": {
+    "term": "Practices",
+    "canonical_name": "Practices",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "quality": {
+    "term": "Quality",
+    "canonical_name": "Quality",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "running": {
+    "term": "Running",
+    "canonical_name": "Running",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "software engineers": {
+    "term": "Software Engineers",
+    "canonical_name": "Software Engineers",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "technical leadership": {
+    "term": "Technical Leadership",
+    "canonical_name": "Technical Leadership",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "yocto": {
+    "term": "Yocto",
+    "canonical_name": "Yocto Project",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.8,
+    "reason": "A project that provides templates, tools, and methods to create custom Linux-based systems for embedded products."
+  },
+  "amazon employee": {
+    "term": "Amazon Employee",
+    "canonical_name": "Amazon Employee",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "applicants": {
+    "term": "Applicants",
+    "canonical_name": "Applicants",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "b.a": {
+    "term": "B.A",
+    "canonical_name": "B.A",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "b.s": {
+    "term": "B.S",
+    "canonical_name": "B.S",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "b.s. in computer": {
+    "term": "B.S. in Computer",
+    "canonical_name": "B.S. in Computer",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "blog": {
+    "term": "Blog",
+    "canonical_name": "Blog",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "blog. be": {
+    "term": "Blog. Be",
+    "canonical_name": "Blog. Be",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "creators": {
+    "term": "Creators",
+    "canonical_name": "Creators",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "developers": {
+    "term": "Developers",
+    "canonical_name": "Developers",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "discount": {
+    "term": "Discount",
+    "canonical_name": "Discount",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "discount\n\nbasic": {
+    "term": "Discount\n\nBasic",
+    "canonical_name": "Discount\n\nBasic",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "employee": {
+    "term": "Employee",
+    "canonical_name": "Employee",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "familiarity with aws": {
+    "term": "Familiarity with AWS",
+    "canonical_name": "Familiarity with AWS",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "familiarity with twitch": {
+    "term": "Familiarity with Twitch",
+    "canonical_name": "Familiarity with Twitch",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "flexible": {
+    "term": "Flexible",
+    "canonical_name": "Flexible",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "flexible pto": {
+    "term": "Flexible PTO",
+    "canonical_name": "Flexible PTO",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "golang": {
+    "term": "Golang",
+    "canonical_name": "Go",
+    "category": "Programming Language",
+    "vendor": null,
+    "synonyms": [
+      "Go"
+    ],
+    "confidence": 1.0,
+    "reason": "Golang is a well-known programming language."
+  },
+  "golang and aws": {
+    "term": "Golang and AWS",
+    "canonical_name": "Golang and AWS",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "guide": {
+    "term": "Guide",
+    "canonical_name": "Guide",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "interactive": {
+    "term": "Interactive",
+    "canonical_name": "Interactive",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "interactive video": {
+    "term": "Interactive Video",
+    "canonical_name": "Interactive Video",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "interviewing": {
+    "term": "Interviewing",
+    "canonical_name": "Interviewing",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "interviewing guide": {
+    "term": "Interviewing Guide",
+    "canonical_name": "Interviewing Guide",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "linkedin": {
+    "term": "LinkedIn",
+    "canonical_name": "LinkedIn",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "linkedin and x": {
+    "term": "LinkedIn and X",
+    "canonical_name": "LinkedIn and X",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "managers": {
+    "term": "Managers",
+    "canonical_name": "Managers",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "maternity": {
+    "term": "Maternity",
+    "canonical_name": "Maternity",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "partner": {
+    "term": "Partner",
+    "canonical_name": "Partner",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "product managers": {
+    "term": "Product Managers",
+    "canonical_name": "Product Managers",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "program": {
+    "term": "Program",
+    "canonical_name": "Program",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "program managers": {
+    "term": "Program Managers",
+    "canonical_name": "Program Managers",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "pto": {
+    "term": "PTO",
+    "canonical_name": "PTO",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "software developers": {
+    "term": "Software Developers",
+    "canonical_name": "Software Developers",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "software development": {
+    "term": "Software Development",
+    "canonical_name": "Software Development",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "technical program": {
+    "term": "Technical Program",
+    "canonical_name": "Technical Program",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "twitch\n\ntwitch": {
+    "term": "Twitch\n\nTwitch",
+    "canonical_name": "Twitch\n\nTwitch",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "video": {
+    "term": "Video",
+    "canonical_name": "Video",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "video platform": {
+    "term": "Video Platform",
+    "canonical_name": "Video Platform",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [
+      "Video Platform"
+    ],
+    "confidence": 0.8,
+    "reason": "Refers to a type of service but is not a specific technology."
+  },
+  "viewers": {
+    "term": "Viewers",
+    "canonical_name": "Viewers",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "viewers and creators": {
+    "term": "Viewers and Creators",
+    "canonical_name": "Viewers and Creators",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "will": {
+    "term": "Will",
+    "canonical_name": "Will",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "you will": {
+    "term": "You Will",
+    "canonical_name": "You Will",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "disability insurance": {
+    "term": "Disability Insurance",
+    "canonical_name": "Disability Insurance",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Not a technology/tool/service"
+  },
+  "minimum of bachelor": {
+    "term": "Minimum of Bachelor",
+    "canonical_name": "Bachelor's Degree",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Not a technology/tool/service"
+  },
+  "perks": {
+    "term": "Perks",
+    "canonical_name": "Perks",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Not a technology/tool/service"
+  },
+  "proficient": {
+    "term": "Proficient",
+    "canonical_name": "Proficient",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Not a technology/tool/service"
+  },
+  "years": {
+    "term": "Years",
+    "canonical_name": "Years",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Not a technology/tool/service"
+  },
+  "angular": {
+    "term": "Angular",
+    "canonical_name": "Angular",
+    "category": "Frontend Framework",
+    "vendor": "Google",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Well-known frontend framework for building web applications."
+  },
+  "angular.\nsoftware": {
+    "term": "Angular.\nSoftware",
+    "canonical_name": "Angular.\nSoftware",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "artificial": {
+    "term": "Artificial",
+    "canonical_name": "Artificial",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Term is too vague and does not refer to a specific technology."
+  },
+  "artificial intelligence": {
+    "term": "Artificial Intelligence",
+    "canonical_name": "Artificial Intelligence",
+    "category": "ML/AI",
+    "vendor": null,
+    "synonyms": [
+      "AI"
+    ],
+    "confidence": 1.0,
+    "reason": "Established term for the simulation of human intelligence in machines."
+  },
+  "azure portal": {
+    "term": "Azure Portal",
+    "canonical_name": "Azure Portal",
+    "category": "Cloud Service",
+    "vendor": "Microsoft",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Main interface for managing Azure cloud services."
+  },
+  "azure. we": {
+    "term": "Azure. We",
+    "canonical_name": "Azure. We",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Phrase does not refer to a specific technology."
+  },
+  "bay": {
+    "term": "Bay",
+    "canonical_name": "Bay",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Term is too vague and does not refer to a specific technology."
+  },
+  "consistent": {
+    "term": "Consistent",
+    "canonical_name": "Consistent",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Term is too vague and does not refer to a specific technology."
+  },
+  "engineering ic3": {
+    "term": "Engineering IC3",
+    "canonical_name": "Engineering IC3",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Term does not refer to a specific technology."
+  },
+  "francisco": {
+    "term": "Francisco",
+    "canonical_name": "Francisco",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Term is too vague and does not refer to a specific technology."
+  },
+  "intelligence": {
+    "term": "Intelligence",
+    "canonical_name": "Intelligence",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Term is too vague and does not refer to a specific technology."
+  },
+  "knockout": {
+    "term": "Knockout",
+    "canonical_name": "Knockout.js",
+    "category": "Frontend Framework",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.8,
+    "reason": "JavaScript library for building responsive user interfaces."
+  },
+  "new": {
+    "term": "New",
+    "canonical_name": "New",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Term is too vague and does not refer to a specific technology."
+  },
+  "new york": {
+    "term": "New York",
+    "canonical_name": "New York",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Term is too vague and does not refer to a specific technology."
+  },
+  "oct": {
+    "term": "Oct",
+    "canonical_name": "Oct",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Term is too vague and does not refer to a specific technology."
+  },
+  "react javascript": {
+    "term": "React JavaScript",
+    "canonical_name": "React",
+    "category": "Frontend Framework",
+    "vendor": "Meta",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Popular JavaScript library for building user interfaces."
+  },
+  "san": {
+    "term": "San",
+    "canonical_name": "San",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Term is too vague and does not refer to a specific technology."
+  },
+  "san francisco": {
+    "term": "San Francisco",
+    "canonical_name": "San Francisco",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Term is too vague and does not refer to a specific technology."
+  },
+  "the azure": {
+    "term": "The Azure",
+    "canonical_name": "The Azure",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Phrase does not refer to a specific technology."
+  },
+  "typescript\nor": {
+    "term": "TypeScript\nOR",
+    "canonical_name": "TypeScript\nOR",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "york": {
+    "term": "York",
+    "canonical_name": "York",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "responsibilities\nas": {
+    "term": "Responsibilities\nAs",
+    "canonical_name": "Responsibilities",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Not a technology/tool/service"
+  },
+  "specify": {
+    "term": "Specify",
+    "canonical_name": "Specify",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Not a technology/tool/service"
+  },
+  "at google": {
+    "term": "At Google",
+    "canonical_name": "Google",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Not a technology/tool/service"
+  },
+  "from": {
+    "term": "From",
+    "canonical_name": "From",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Not a technology/tool/service"
+  },
+  "google.\nresponsibilities": {
+    "term": "Google.\nResponsibilities",
+    "canonical_name": "Google",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Not a technology/tool/service"
+  },
+  "manage": {
+    "term": "Manage",
+    "canonical_name": "Manage",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0,
+    "reason": "Not a technology/tool/service"
   }
 }

@@ -6560,5 +6560,250 @@
     "synonyms": [],
     "confidence": 0,
     "reason": "Not a technology/tool/service"
+  },
+  "academic": {
+    "term": "Academic",
+    "canonical_name": "Academic",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "cloud consoles": {
+    "term": "Cloud Consoles",
+    "canonical_name": "Cloud Consoles",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "cloud shell": {
+    "term": "Cloud Shell",
+    "canonical_name": "Azure Cloud Shell",
+    "category": "Cloud Service",
+    "vendor": "Microsoft",
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Cloud Shell is a service provided by Microsoft Azure."
+  },
+  "collaborates": {
+    "term": "Collaborates",
+    "canonical_name": "Collaborates",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "console": {
+    "term": "Console",
+    "canonical_name": "Console",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "consoles": {
+    "term": "Consoles",
+    "canonical_name": "Consoles",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "containerization": {
+    "term": "Containerization",
+    "canonical_name": "Containerization",
+    "category": "Containers",
+    "vendor": null,
+    "synonyms": [
+      "Container technology"
+    ],
+    "confidence": 0.8,
+    "reason": "Containerization refers to the technology of packaging applications in containers."
+  },
+  "continuously": {
+    "term": "Continuously",
+    "canonical_name": "Continuously",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "designs": {
+    "term": "Designs",
+    "canonical_name": "Designs",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "develops": {
+    "term": "Develops",
+    "canonical_name": "Develops",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "eip": {
+    "term": "EiP",
+    "canonical_name": "EiP",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "engages": {
+    "term": "Engages",
+    "canonical_name": "Engages",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "ic2": {
+    "term": "IC2",
+    "canonical_name": "IC2",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "ic2swe": {
+    "term": "IC2SWE",
+    "canonical_name": "IC2SWE",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "ic2swe\n\nresponsibilities": {
+    "term": "IC2SWE\n\nResponsibilities",
+    "canonical_name": "IC2SWE\n\nResponsibilities",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "microsoft.\n\n\nmicrosoft": {
+    "term": "Microsoft.\n\n\nMicrosoft",
+    "canonical_name": "Microsoft.\n\n\nMicrosoft",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "october": {
+    "term": "October",
+    "canonical_name": "October",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "overview\nthe": {
+    "term": "Overview\nThe",
+    "canonical_name": "Overview\nThe",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "participates": {
+    "term": "Participates",
+    "canonical_name": "Participates",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "rust": {
+    "term": "Rust",
+    "canonical_name": "Rust",
+    "category": "Programming Language",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 1.0,
+    "reason": "Rust is a programming language."
+  },
+  "serial": {
+    "term": "Serial",
+    "canonical_name": "Serial",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "serial console": {
+    "term": "Serial Console",
+    "canonical_name": "Serial Console",
+    "category": "Other",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.7,
+    "reason": "Serial Console is a feature related to cloud services but not a standalone technology."
+  },
+  "shell": {
+    "term": "Shell",
+    "canonical_name": "Shell",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "troubleshoots": {
+    "term": "Troubleshoots",
+    "canonical_name": "Troubleshoots",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "user": {
+    "term": "User",
+    "canonical_name": "User",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "user experience": {
+    "term": "User Experience",
+    "canonical_name": "User Experience",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
+  },
+  "within": {
+    "term": "Within",
+    "canonical_name": "Within",
+    "category": "Unknown",
+    "vendor": null,
+    "synonyms": [],
+    "confidence": 0.0,
+    "reason": "Parse failure"
   }
 }

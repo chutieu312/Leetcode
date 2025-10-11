@@ -120,5 +120,8 @@
   "Azure Portal": "Cloud Service",
   "Knockout.js": "Frontend Framework",
   "Generative AI": "ML/AI",
-  "Audio Frameworks": "Other"
+  "Audio Frameworks": "Other",
+  "Azure Cloud Shell": "Cloud Service",
+  "Containerization": "Containers",
+  "Rust": "Programming Language"
 }

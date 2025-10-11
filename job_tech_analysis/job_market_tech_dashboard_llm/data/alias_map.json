@@ -131,5 +131,8 @@
   "knockout": "Knockout.js",
   "react javascript": "React",
   "genai": "Generative AI",
-  "audio frameworks": "Audio Frameworks"
+  "audio frameworks": "Audio Frameworks",
+  "cloud shell": "Azure Cloud Shell",
+  "containerization": "Containerization",
+  "rust": "Rust"
 }

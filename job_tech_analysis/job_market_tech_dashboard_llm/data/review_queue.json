@@ -68,5 +68,38 @@
       "reason": "TDD is a software development process that relies on the repetition of a very short development cycle."
     },
     "status": "accepted"
+  },
+  {
+    "term": "GenAI",
+    "suggested": {
+      "canonical_name": "Generative AI",
+      "category": "ML/AI",
+      "confidence": 0.7,
+      "synonyms": [],
+      "reason": "GenAI refers to generative artificial intelligence technologies."
+    },
+    "status": "accepted"
+  },
+  {
+    "term": "Audio Frameworks",
+    "suggested": {
+      "canonical_name": "Audio Frameworks",
+      "category": "Other",
+      "confidence": 0.7,
+      "synonyms": [],
+      "reason": "Refers to frameworks used for audio processing and management."
+    },
+    "status": "accepted"
+  },
+  {
+    "term": "Serial Console",
+    "suggested": {
+      "canonical_name": "Serial Console",
+      "category": "Other",
+      "confidence": 0.7,
+      "synonyms": [],
+      "reason": "Serial Console is a feature related to cloud services but not a standalone technology."
+    },
+    "status": "pending"
   }
 ]
